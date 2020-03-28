@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2020-03-28 02:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-03-24 01:04:26 +0000"
@@ -504,6 +510,7 @@
       "minecraft:creeper": "2020-03-24 03:08:40 +0000",
       "minecraft:phantom": "2020-03-27 04:07:26 +0000",
       "minecraft:witch": "2020-03-24 03:35:00 +0000",
+      "minecraft:wither_skeleton": "2020-03-28 02:04:34 +0000",
       "minecraft:cave_spider": "2020-03-24 03:28:29 +0000",
       "minecraft:silverfish": "2020-03-26 04:05:53 +0000",
       "minecraft:zombie": "2020-03-24 01:28:16 +0000",
@@ -1638,6 +1645,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-03-28 02:10:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-26 04:40:17 +0000"
@@ -2200,6 +2213,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2020-03-25 01:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2020-03-28 02:10:24 +0000"
     },
     "done": true
   },
