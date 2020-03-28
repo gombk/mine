@@ -1,0 +1,62 @@
+[01:12:43] [Server thread/INFO]: santoli has made the advancement [Getting an Upgrade]
+[01:25:02] [User Authenticator #82/INFO]: UUID of player GOM is 6e3c9853-b56a-351c-9278-86bca0480da4
+[01:25:02] [Server thread/INFO]: GOM[/187.183.39.75:5482] logged in with entity id 189651 at ([world]-320.1659042891662, 95.0, -194.0980136658621)
+[01:25:13] [Server thread/INFO]: GOM issued server command: /gamemode creative
+[01:25:13] [Server thread/INFO]: [GOM: Set own game mode to Creative Mode]
+[01:26:08] [User Authenticator #83/INFO]: UUID of player MPrado is 08311f2c-e2e8-3567-b578-d97c7cea649c
+[01:26:09] [Server thread/INFO]: MPrado[/143.208.192.88:5151] logged in with entity id 189815 at ([world]-255.97757927458827, 65.0, -227.35520686472705)
+[01:26:17] [User Authenticator #84/INFO]: UUID of player Matherook is f81ad634-c34e-38d0-9c0c-b026664c6904
+[01:26:17] [Server thread/INFO]: Matherook[/170.247.55.81:53048] logged in with entity id 189836 at ([world]-273.0421608638686, 65.0, -179.79953590968736)
+[01:27:20] [Server thread/INFO]: GOM issued server command: /gamemode survival
+[01:27:20] [Server thread/INFO]: [GOM: Set own game mode to Survival Mode]
+[01:27:42] [User Authenticator #85/INFO]: UUID of player Dargaron is b72539c4-e3dd-30dd-bb44-becd8a45e4bd
+[01:27:43] [Server thread/INFO]: Dargaron[/131.196.76.184:20634] logged in with entity id 190022 at ([world]-240.09452494559258, 67.0, -231.8027416779721)
+[01:30:52] [User Authenticator #86/INFO]: UUID of player Suushi is 33989304-e843-3900-980d-2803cf0259e7
+[01:30:53] [Server thread/INFO]: Suushi[/187.87.127.76:54728] logged in with entity id 191130 at ([world]-242.15542863968935, 67.0, -209.56598998620285)
+[01:31:13] [User Authenticator #87/INFO]: UUID of player Slim is 3e6bd895-9b58-341e-9ad3-2ff57c59e281
+[01:31:14] [Server thread/INFO]: Slim[/170.247.55.131:18140] logged in with entity id 191243 at ([world]-242.15052100512258, 67.0, -220.48342363762424)
+[01:31:28] [Server thread/INFO]: Suushi issued server command: /time set 0
+[01:31:28] [Server thread/INFO]: [Suushi: Set the time to 0]
+[01:33:25] [Server thread/INFO]: GOM tried to swim in lava
+[01:37:47] [User Authenticator #88/INFO]: UUID of player Will_ is 990537d0-ca64-339e-95c5-3f78f48fca9e
+[01:37:47] [Server thread/INFO]: Will_[/201.92.131.176:1875] logged in with entity id 192739 at ([world]-118.5, 63.0, -170.5)
+[01:38:15] [Server thread/INFO]: MPrado was slain by GOM
+[01:38:54] [Server thread/INFO]: Matherook issued server command: /teleport Will_ Matherook
+[01:38:54] [Server thread/INFO]: [Matherook: Teleported Will_ to Matherook]
+[01:39:33] [Server thread/INFO]: Matherook lost connection: Timed out
+[01:39:33] [Server thread/INFO]: Matherook left the game
+[01:41:48] [Server thread/INFO]: Will_ has made the advancement [Stone Age]
+[01:42:16] [Server thread/INFO]: Will_ has made the advancement [Getting an Upgrade]
+[01:42:33] [Server thread/INFO]: Dargaron has made the advancement [Fishy Business]
+[01:44:13] [User Authenticator #89/INFO]: UUID of player Matherook is f81ad634-c34e-38d0-9c0c-b026664c6904
+[01:44:13] [Server thread/INFO]: Matherook[/170.247.55.81:52849] logged in with entity id 194451 at ([world]-264.4341667243004, 72.0, -202.40093231056127)
+[01:44:32] [Server thread/INFO]: GOM issued server command: /deop Suushi
+[01:44:32] [Server thread/INFO]: [GOM: Made Suushi no longer a server operator]
+[01:44:35] [Server thread/INFO]: GOM issued server command: /deop gom
+[01:44:35] [Server thread/INFO]: [GOM: Made GOM no longer a server operator]
+[01:45:16] [Server thread/INFO]: MPrado has made the advancement [We Need to Go Deeper]
+[01:45:38] [Server thread/INFO]: MPrado was slain by Zombie Pigman
+[01:45:44] [Server thread/INFO]: MPrado lost connection: Disconnected
+[01:45:44] [Server thread/INFO]: MPrado left the game
+[01:46:01] [Server thread/INFO]: Will_ has made the advancement [Monster Hunter]
+[01:49:46] [Server thread/INFO]: Will_ has made the advancement [Sweet Dreams]
+[02:01:36] [Async Chat Thread - #25/INFO]: <GOM> gabs peguei lapis azul
+[02:01:38] [Async Chat Thread - #25/INFO]: <GOM> brigaod
+[02:02:31] [Async Chat Thread - #25/INFO]: <GOM> ja devolvio o laopis blue
+[02:02:36] [Async Chat Thread - #25/INFO]: <GOM> <>::))
+[02:02:53] [Server thread/INFO]: Matherook lost connection: Timed out
+[02:02:53] [Server thread/INFO]: Matherook left the game
+[02:03:01] [Server thread/INFO]: Dargaron has made the advancement [Hot Stuff]
+[02:03:08] [Async Chat Thread - #25/INFO]: <GOM> leo
+[02:03:12] [Async Chat Thread - #25/INFO]: <GOM> pega nom eu frasco aqui
+[02:03:13] [Async Chat Thread - #25/INFO]: <GOM> pf
+[02:03:17] [Async Chat Thread - #25/INFO]: <Dargaron> eu peguei
+[02:03:24] [Async Chat Thread - #25/INFO]: <GOM> XD
+[02:03:28] [Async Chat Thread - #25/INFO]: <Will_> ZzzZ
+[02:03:36] [Async Chat Thread - #25/INFO]: <Suushi> dorme gom
+[02:03:41] [Async Chat Thread - #25/INFO]: <Dargaron> dorme la gonsalves
+[02:03:42] [Async Chat Thread - #25/INFO]: <GOM> ja to
+[02:03:52] [Async Chat Thread - #25/INFO]: <GOM> mentira
+[02:03:54] [Async Chat Thread - #25/INFO]: <GOM> tem mob por perto
+[02:04:13] [Async Chat Thread - #25/INFO]: <GOM> tpronto
+[02:04:22] [Async Chat Thread - #25/INFO]: <Will_> ZzzZ

@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "de6837b0-4dc5-4c27-9959-f212aab023ac",
+    "name": "Porongo",
+    "created": "2020-03-26 00:09:40 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "b6af4203-3771-3520-9827-658396ae4e99",
+    "name": "porongoXD",
+    "created": "2020-03-26 00:10:11 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "7c7b2c1c-f1cb-333a-ab81-4c284a93ee35",
+    "name": "PorongooXD",
+    "created": "2020-03-26 00:11:32 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "."
+  }
+]
