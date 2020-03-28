@@ -10,5 +10,11 @@
     "name": "Slim",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6e3c9853-b56a-351c-9278-86bca0480da4",
+    "name": "GOM",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
