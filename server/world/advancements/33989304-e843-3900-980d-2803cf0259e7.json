@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-03-28 03:10:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2020-03-26 04:06:02 +0000"
@@ -266,6 +272,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_cut_sandstone": "2020-03-25 01:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-03-28 02:39:34 +0000"
     },
     "done": true
   },
@@ -536,6 +548,7 @@
       "minecraft:blaze": "2020-03-25 00:09:39 +0000",
       "minecraft:skeleton": "2020-03-24 03:26:45 +0000",
       "minecraft:zombie_pigman": "2020-03-26 00:02:15 +0000",
+      "minecraft:ghast": "2020-03-28 02:46:23 +0000",
       "minecraft:spider": "2020-03-24 01:42:32 +0000",
       "minecraft:creeper": "2020-03-24 23:39:28 +0000",
       "minecraft:slime": "2020-03-27 00:08:17 +0000",
@@ -1522,6 +1535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2020-03-28 03:25:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2020-03-26 01:59:23 +0000"
@@ -1731,6 +1750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-03-28 18:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-24 03:15:36 +0000"
@@ -1895,6 +1920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-03-28 03:25:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-03-24 01:19:13 +0000"
@@ -2033,6 +2064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-03-28 02:39:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2020-03-24 04:45:16 +0000"
@@ -2078,6 +2115,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-03-24 01:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2020-03-28 19:18:17 +0000"
     },
     "done": true
   },
@@ -2387,6 +2430,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-03-28 03:25:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2020-03-24 01:14:56 +0000"
@@ -2420,6 +2469,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2020-03-24 05:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2020-03-28 19:15:40 +0000"
     },
     "done": true
   },

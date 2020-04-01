@@ -1,266 +1,146 @@
-[01:12:43] [Server thread/INFO]: santoli has made the advancement [Getting an Upgrade]
-[01:25:02] [User Authenticator #82/INFO]: UUID of player GOM is 6e3c9853-b56a-351c-9278-86bca0480da4
-[01:25:02] [Server thread/INFO]: GOM[/187.183.39.75:5482] logged in with entity id 189651 at ([world]-320.1659042891662, 95.0, -194.0980136658621)
-[01:25:13] [Server thread/INFO]: GOM issued server command: /gamemode creative
-[01:25:13] [Server thread/INFO]: [GOM: Set own game mode to Creative Mode]
-[01:26:08] [User Authenticator #83/INFO]: UUID of player MPrado is 08311f2c-e2e8-3567-b578-d97c7cea649c
-[01:26:09] [Server thread/INFO]: MPrado[/143.208.192.88:5151] logged in with entity id 189815 at ([world]-255.97757927458827, 65.0, -227.35520686472705)
-[01:26:17] [User Authenticator #84/INFO]: UUID of player Matherook is f81ad634-c34e-38d0-9c0c-b026664c6904
-[01:26:17] [Server thread/INFO]: Matherook[/170.247.55.81:53048] logged in with entity id 189836 at ([world]-273.0421608638686, 65.0, -179.79953590968736)
-[01:27:20] [Server thread/INFO]: GOM issued server command: /gamemode survival
-[01:27:20] [Server thread/INFO]: [GOM: Set own game mode to Survival Mode]
-[01:27:42] [User Authenticator #85/INFO]: UUID of player Dargaron is b72539c4-e3dd-30dd-bb44-becd8a45e4bd
-[01:27:43] [Server thread/INFO]: Dargaron[/131.196.76.184:20634] logged in with entity id 190022 at ([world]-240.09452494559258, 67.0, -231.8027416779721)
-[01:30:52] [User Authenticator #86/INFO]: UUID of player Suushi is 33989304-e843-3900-980d-2803cf0259e7
-[01:30:53] [Server thread/INFO]: Suushi[/187.87.127.76:54728] logged in with entity id 191130 at ([world]-242.15542863968935, 67.0, -209.56598998620285)
-[01:31:13] [User Authenticator #87/INFO]: UUID of player Slim is 3e6bd895-9b58-341e-9ad3-2ff57c59e281
-[01:31:14] [Server thread/INFO]: Slim[/170.247.55.131:18140] logged in with entity id 191243 at ([world]-242.15052100512258, 67.0, -220.48342363762424)
-[01:31:28] [Server thread/INFO]: Suushi issued server command: /time set 0
-[01:31:28] [Server thread/INFO]: [Suushi: Set the time to 0]
-[01:33:25] [Server thread/INFO]: GOM tried to swim in lava
-[01:37:47] [User Authenticator #88/INFO]: UUID of player Will_ is 990537d0-ca64-339e-95c5-3f78f48fca9e
-[01:37:47] [Server thread/INFO]: Will_[/201.92.131.176:1875] logged in with entity id 192739 at ([world]-118.5, 63.0, -170.5)
-[01:38:15] [Server thread/INFO]: MPrado was slain by GOM
-[01:38:54] [Server thread/INFO]: Matherook issued server command: /teleport Will_ Matherook
-[01:38:54] [Server thread/INFO]: [Matherook: Teleported Will_ to Matherook]
-[01:39:33] [Server thread/INFO]: Matherook lost connection: Timed out
-[01:39:33] [Server thread/INFO]: Matherook left the game
-[01:41:48] [Server thread/INFO]: Will_ has made the advancement [Stone Age]
-[01:42:16] [Server thread/INFO]: Will_ has made the advancement [Getting an Upgrade]
-[01:42:33] [Server thread/INFO]: Dargaron has made the advancement [Fishy Business]
-[01:44:13] [User Authenticator #89/INFO]: UUID of player Matherook is f81ad634-c34e-38d0-9c0c-b026664c6904
-[01:44:13] [Server thread/INFO]: Matherook[/170.247.55.81:52849] logged in with entity id 194451 at ([world]-264.4341667243004, 72.0, -202.40093231056127)
-[01:44:32] [Server thread/INFO]: GOM issued server command: /deop Suushi
-[01:44:32] [Server thread/INFO]: [GOM: Made Suushi no longer a server operator]
-[01:44:35] [Server thread/INFO]: GOM issued server command: /deop gom
-[01:44:35] [Server thread/INFO]: [GOM: Made GOM no longer a server operator]
-[01:45:16] [Server thread/INFO]: MPrado has made the advancement [We Need to Go Deeper]
-[01:45:38] [Server thread/INFO]: MPrado was slain by Zombie Pigman
-[01:45:44] [Server thread/INFO]: MPrado lost connection: Disconnected
-[01:45:44] [Server thread/INFO]: MPrado left the game
-[01:46:01] [Server thread/INFO]: Will_ has made the advancement [Monster Hunter]
-[01:49:46] [Server thread/INFO]: Will_ has made the advancement [Sweet Dreams]
-[02:01:36] [Async Chat Thread - #25/INFO]: <GOM> gabs peguei lapis azul
-[02:01:38] [Async Chat Thread - #25/INFO]: <GOM> brigaod
-[02:02:31] [Async Chat Thread - #25/INFO]: <GOM> ja devolvio o laopis blue
-[02:02:36] [Async Chat Thread - #25/INFO]: <GOM> <>::))
-[02:02:53] [Server thread/INFO]: Matherook lost connection: Timed out
-[02:02:53] [Server thread/INFO]: Matherook left the game
-[02:03:01] [Server thread/INFO]: Dargaron has made the advancement [Hot Stuff]
-[02:03:08] [Async Chat Thread - #25/INFO]: <GOM> leo
-[02:03:12] [Async Chat Thread - #25/INFO]: <GOM> pega nom eu frasco aqui
-[02:03:13] [Async Chat Thread - #25/INFO]: <GOM> pf
-[02:03:17] [Async Chat Thread - #25/INFO]: <Dargaron> eu peguei
-[02:03:24] [Async Chat Thread - #25/INFO]: <GOM> XD
-[02:03:28] [Async Chat Thread - #25/INFO]: <Will_> ZzzZ
-[02:03:36] [Async Chat Thread - #25/INFO]: <Suushi> dorme gom
-[02:03:41] [Async Chat Thread - #25/INFO]: <Dargaron> dorme la gonsalves
-[02:03:42] [Async Chat Thread - #25/INFO]: <GOM> ja to
-[02:03:52] [Async Chat Thread - #25/INFO]: <GOM> mentira
-[02:03:54] [Async Chat Thread - #25/INFO]: <GOM> tem mob por perto
-[02:04:13] [Async Chat Thread - #25/INFO]: <GOM> tpronto
-[02:04:22] [Async Chat Thread - #25/INFO]: <Will_> ZzzZ
-[02:05:04] [User Authenticator #90/INFO]: UUID of player Matherook is f81ad634-c34e-38d0-9c0c-b026664c6904
-[02:05:04] [Server thread/INFO]: Matherook[/170.247.55.81:51579] logged in with entity id 199470 at ([world]-253.2637991630379, 67.72897297916086, -216.56093020554812)
-[02:05:57] [Async Chat Thread - #26/INFO]: <GOM> q cas bonita wil
-[02:06:03] [Async Chat Thread - #26/INFO]: <Will_> obrigadu u.u
-[02:06:07] [Async Chat Thread - #26/INFO]: <GOM> UwU
-[02:06:08] [Async Chat Thread - #26/INFO]: <Matherook> gom
-[02:06:10] [Async Chat Thread - #26/INFO]: <GOM> q
-[02:06:21] [Async Chat Thread - #26/INFO]: <GOM> num quero mais conversa
-[02:06:22] [Async Chat Thread - #26/INFO]: <Matherook> vc colocou carne podre na fornalha?
-[02:06:23] [Async Chat Thread - #26/INFO]: <GOM> demora mt
-[02:06:26] [Async Chat Thread - #26/INFO]: <GOM> n
-[02:06:39] [Async Chat Thread - #26/INFO]: <Matherook> porra, quem foi entao
-[02:06:46] [Async Chat Thread - #26/INFO]: <GOM> e serio n fui eu
-[02:06:50] [Async Chat Thread - #26/INFO]: <GOM> eu tirei tudo do meu bau
-[02:06:53] [Async Chat Thread - #26/INFO]: <GOM> ai joguei na agua
-[02:06:55] [Async Chat Thread - #26/INFO]: <GOM> ai o capacete pegou
-[02:06:57] [Async Chat Thread - #26/INFO]: <GOM> ai eu matei ele
-[02:07:01] [Async Chat Thread - #26/INFO]: <GOM> e dropo tudo na casa dele
-[02:07:03] [Async Chat Thread - #26/INFO]: <GOM> :D
-[02:07:04] [Async Chat Thread - #26/INFO]: <Dargaron> bela narrativa gom
-[02:07:07] [Async Chat Thread - #26/INFO]: <GOM> obg
-[02:07:11] [Async Chat Thread - #26/INFO]: <GOM> aprendi com a biblia
-[02:07:16] [Async Chat Thread - #26/INFO]: <GOM> ja kleu
-[02:07:18] [Async Chat Thread - #26/INFO]: <GOM> bolm oivro
-[02:07:19] [Server thread/INFO]: Matherook lost connection: Disconnected
-[02:07:19] [Server thread/INFO]: Matherook left the game
-[02:07:25] [Async Chat Thread - #26/INFO]: <GOM> mateus pq KITAAKKK
-[02:07:58] [User Authenticator #91/INFO]: UUID of player Matherook is f81ad634-c34e-38d0-9c0c-b026664c6904
-[02:07:58] [Server thread/INFO]: Matherook[/170.247.55.81:52345] logged in with entity id 200228 at ([world]-268.8355864970255, 73.2840259006036, -183.42031122110996)
-[02:08:02] [Async Chat Thread - #26/INFO]: <GOM> pq kita pedra
-[02:08:07] [Async Chat Thread - #26/INFO]: <GOM> grande matrok T_TT
-[02:08:57] [Server thread/INFO]: Matherook issued server command: /save-all
-[02:09:00] [Server thread/INFO]: [Matherook: Saved the game]
-[02:09:13] [Server thread/INFO]: Matherook issued server command: /save-all
-[02:09:14] [Server thread/INFO]: [Matherook: Saved the game]
-[02:09:53] [Server thread/INFO]: Matherook issued server command: /save-all
-[02:09:53] [Server thread/INFO]: [Matherook: Saved the game]
-[02:10:24] [Server thread/INFO]: Slim has made the advancement [Spooky Scary Skeleton]
-[02:11:27] [Server thread/INFO]: Matherook issued server command: /save-all
-[02:11:28] [Server thread/INFO]: [Matherook: Saved the game]
-[02:11:36] [Server thread/INFO]: Matherook issued server command: /save-all
-[02:11:37] [Server thread/INFO]: [Matherook: Saved the game]
-[02:11:41] [Thread-1/INFO]: Stopping server
-[02:11:41] [Thread-1/INFO]: Saving players
-[02:11:41] [Thread-1/INFO]: santoli lost connection: Server closed
-[02:11:42] [Thread-1/INFO]: santoli left the game
-[02:11:42] [Thread-1/INFO]: Dargaron lost connection: Server closed
-[02:11:42] [Thread-1/INFO]: Dargaron left the game
-[02:11:42] [Thread-1/INFO]: Suushi lost connection: Server closed
-[02:11:42] [Thread-1/INFO]: Suushi left the game
-[02:11:42] [Thread-1/INFO]: Slim lost connection: Server closed
-[02:11:42] [Thread-1/INFO]: Slim left the game
-[02:11:42] [Thread-1/INFO]: GOM lost connection: Server closed
-[02:11:42] [Thread-1/INFO]: GOM left the game
-[02:11:42] [Thread-1/INFO]: Will_ lost connection: Server closed
-[02:11:42] [Thread-1/INFO]: Will_ left the game
-[02:11:42] [Thread-1/INFO]: Matherook lost connection: Server closed
-[02:11:42] [Thread-1/INFO]: Matherook left the game
-[02:11:42] [Thread-1/INFO]: Saving worlds
-[02:11:42] [Thread-1/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[02:11:42] [Thread-1/ERROR]: Failed to save chunk -14,-13
-java.util.ConcurrentModificationException: null
-	at java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1208) ~[?:?]
-	at java.util.TreeMap$KeyIterator.next(TreeMap.java:1262) ~[?:?]
-	at net.minecraft.server.v1_15_R1.TickListServer.a(TickListServer.java:140) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.TickListServer.a(TickListServer.java:121) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.TickListServer.a(TickListServer.java:117) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.TickListServer.a(TickListServer.java:177) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.ChunkRegionLoader.saveChunk(ChunkRegionLoader.java:346) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.PlayerChunkMap.saveChunk(PlayerChunkMap.java:717) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:176) [?:?]
-	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177) [?:?]
-	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) [?:?]
-	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654) [?:?]
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) [?:?]
-	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) [?:?]
-	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) [?:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) [?:?]
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) [?:?]
-	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497) [?:?]
-	at net.minecraft.server.v1_15_R1.PlayerChunkMap.save(PlayerChunkMap.java:317) [spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.ChunkProviderServer.save(ChunkProviderServer.java:302) [spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.WorldServer.save(WorldServer.java:811) [spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.saveChunks(MinecraftServer.java:655) [spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.stop(MinecraftServer.java:725) [spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.DedicatedServer.stop(DedicatedServer.java:696) [spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.close(MinecraftServer.java:676) [spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at org.bukkit.craftbukkit.v1_15_R1.util.ServerShutdownThread.run(ServerShutdownThread.java:16) [spigot.jar:git-Spigot-6de3d4b-796eb15]
-[02:12:23] [Server thread/ERROR]: Encountered an unexpected exception
-net.minecraft.server.v1_15_R1.ReportedException: Writing into PalettedContainer from multiple threads
-	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1095) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:406) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:984) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:824) [spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at java.lang.Thread.run(Thread.java:834) [?:?]
-Caused by: java.lang.IllegalStateException
-	at net.minecraft.server.v1_15_R1.DataPaletteBlock.a(SourceFile:44) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.DataPaletteBlock.setBlock(SourceFile:111) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.ChunkSection.setType(SourceFile:60) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.ChunkSection.setType(SourceFile:54) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.Chunk.setType(Chunk.java:268) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:222) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockHopper.a(SourceFile:145) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockHopper.doPhysics(SourceFile:139) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.a(World.java:434) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.applyPhysics(World.java:388) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.a(BlockRedstoneWire.java:170) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.doPhysics(BlockRedstoneWire.java:346) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.a(World.java:434) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.applyPhysics(World.java:388) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.a(BlockRedstoneWire.java:170) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.doPhysics(BlockRedstoneWire.java:346) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.a(World.java:434) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.applyPhysics(World.java:384) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.a(BlockRedstoneWire.java:170) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.doPhysics(BlockRedstoneWire.java:346) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.a(World.java:434) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.applyPhysics(World.java:388) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.a(BlockRedstoneWire.java:170) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.doPhysics(BlockRedstoneWire.java:346) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.a(World.java:434) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.applyPhysics(World.java:387) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.a(BlockRedstoneWire.java:170) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.doPhysics(BlockRedstoneWire.java:346) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.a(World.java:434) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockDiodeAbstract.d(BlockDiodeAbstract.java:177) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockDiodeAbstract.onPlace(BlockDiodeAbstract.java:162) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.IBlockData.onPlace(SourceFile:255) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.Chunk.setType(Chunk.java:306) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:222) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockDiodeAbstract.tick(BlockDiodeAbstract.java:45) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:263) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.WorldServer.b(WorldServer.java:599) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.TickListServer.b(TickListServer.java:82) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.WorldServer.doTick(WorldServer.java:312) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1082) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	... 4 more
-[02:12:23] [Server thread/ERROR]: 	Cause of unexpected exception was
-java.lang.IllegalStateException: null
-	at net.minecraft.server.v1_15_R1.DataPaletteBlock.a(SourceFile:44) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.DataPaletteBlock.setBlock(SourceFile:111) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.ChunkSection.setType(SourceFile:60) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.ChunkSection.setType(SourceFile:54) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.Chunk.setType(Chunk.java:268) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:222) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockHopper.a(SourceFile:145) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockHopper.doPhysics(SourceFile:139) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.a(World.java:434) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.applyPhysics(World.java:388) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.a(BlockRedstoneWire.java:170) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.doPhysics(BlockRedstoneWire.java:346) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.a(World.java:434) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.applyPhysics(World.java:388) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.a(BlockRedstoneWire.java:170) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.doPhysics(BlockRedstoneWire.java:346) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.a(World.java:434) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.applyPhysics(World.java:384) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.a(BlockRedstoneWire.java:170) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.doPhysics(BlockRedstoneWire.java:346) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.a(World.java:434) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.applyPhysics(World.java:388) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.a(BlockRedstoneWire.java:170) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.doPhysics(BlockRedstoneWire.java:346) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.a(World.java:434) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.applyPhysics(World.java:387) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.a(BlockRedstoneWire.java:170) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockRedstoneWire.doPhysics(BlockRedstoneWire.java:346) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.a(World.java:434) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockDiodeAbstract.d(BlockDiodeAbstract.java:177) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockDiodeAbstract.onPlace(BlockDiodeAbstract.java:162) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.IBlockData.onPlace(SourceFile:255) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.Chunk.setType(Chunk.java:306) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:222) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.BlockDiodeAbstract.tick(BlockDiodeAbstract.java:45) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:263) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.WorldServer.b(WorldServer.java:599) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.TickListServer.b(TickListServer.java:82) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.WorldServer.doTick(WorldServer.java:312) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1082) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:406) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:984) ~[spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:824) [spigot.jar:git-Spigot-6de3d4b-796eb15]
-	at java.lang.Thread.run(Thread.java:834) [?:?]
-[02:12:23] [Server thread/ERROR]: This crash report has been saved to: /usr/local/bin/server/./crash-reports/crash-2020-03-28_02.12.23-server.txt
-[02:12:23] [Thread-1/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:12:23] [Thread-1/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[02:12:24] [Thread-1/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:12:24] [Thread-1/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[02:12:24] [Thread-1/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:12:24] [Thread-1/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:12:24] [Thread-1/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:12:24] [Thread-1/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:57:24] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[11:57:24] [Server thread/INFO]: Loading properties
+[11:57:25] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-6de3d4b-796eb15 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[11:57:25] [Server thread/INFO]: Debug logging is disabled
+[11:57:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:57:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:57:25] [Server thread/INFO]: Default game type: SURVIVAL
+[11:57:25] [Server thread/INFO]: Generating keypair
+[11:57:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:57:26] [Server thread/INFO]: Using epoll channel type
+[11:57:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:57:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:57:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:57:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:57:27] [Server thread/INFO]: Preparing level "world"
+[11:57:27] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[11:58:01] [Server thread/INFO]: Loaded 6 recipes
+[11:58:09] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:58:09] [Server thread/INFO]: View Distance: 10
+[11:58:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:58:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:58:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:58:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:58:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:58:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:58:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:58:09] [Server thread/INFO]: Mob Spawn Range: 6
+[11:58:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:58:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:58:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:58:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:58:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:58:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:58:09] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:58:09] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:58:09] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:58:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:58:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:58:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:58:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:58:09] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:58:09] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:58:09] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:58:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[11:58:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:58:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:58:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[11:58:09] [Server thread/INFO]: Max TNT Explosions: 100
+[11:58:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:58:10] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:58:10] [Server thread/INFO]: View Distance: 10
+[11:58:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:58:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:58:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:58:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:58:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:58:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:58:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:58:10] [Server thread/INFO]: Mob Spawn Range: 6
+[11:58:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[11:58:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:58:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:58:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[11:58:10] [Server thread/INFO]: Max TNT Explosions: 100
+[11:58:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:58:10] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:58:10] [Server thread/INFO]: View Distance: 10
+[11:58:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:58:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:58:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:58:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:58:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:58:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:58:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:58:10] [Server thread/INFO]: Mob Spawn Range: 6
+[11:58:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:58:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[11:58:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:58:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:58:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[11:58:10] [Server thread/INFO]: Max TNT Explosions: 100
+[11:58:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:58:10] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[11:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[11:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[11:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[11:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[11:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[11:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[11:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[11:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[11:58:15] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:58:16] [Server thread/INFO]: Preparing spawn area: 23%
+[11:58:16] [Server thread/INFO]: Preparing spawn area: 23%
+[11:58:16] [Server thread/INFO]: Preparing spawn area: 58%
+[11:58:17] [Server thread/INFO]: Time elapsed: 6450 ms
+[11:58:17] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[11:58:18] [Server thread/INFO]: Preparing spawn area: 0%
+[11:58:18] [Server thread/INFO]: Preparing spawn area: 0%
+[11:58:18] [Server thread/INFO]: Preparing spawn area: 0%
+[11:58:18] [Server thread/INFO]: Preparing spawn area: 0%
+[11:58:19] [Server thread/INFO]: Time elapsed: 2029 ms
+[11:58:19] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[11:58:19] [Server thread/INFO]: Preparing spawn area: 0%
+[11:58:19] [Server-Worker-1/INFO]: Preparing spawn area: 78%
+[11:58:20] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[11:58:20] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[11:58:21] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[11:58:21] [Server-Worker-1/INFO]: Preparing spawn area: 85%
+[11:58:22] [Server-Worker-1/INFO]: Preparing spawn area: 89%
+[11:58:22] [Server thread/INFO]: Time elapsed: 3350 ms
+[11:58:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:58:22] [Server thread/INFO]: Done (55.733s)! For help, type "help"
+[11:58:23] [User Authenticator #1/INFO]: UUID of player GOM is 6e3c9853-b56a-351c-9278-86bca0480da4
+[11:58:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@35635de8[id=6e3c9853-b56a-351c-9278-86bca0480da4,name=GOM,properties={},legacy=false] (/187.183.39.75:22856) lost connection: Disconnected
