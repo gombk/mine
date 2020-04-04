@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2020-04-02 00:13:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-03-29 14:26:51 +0000"
@@ -242,6 +248,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-03-29 16:32:08 +0000",
+      "sweet_berries": "2020-04-02 00:02:25 +0000",
       "apple": "2020-03-29 16:04:57 +0000",
       "melon_slice": "2020-03-29 14:21:43 +0000",
       "cooked_chicken": "2020-03-29 16:06:43 +0000"
@@ -397,6 +404,12 @@
       "has_cut_sandstone": "2020-03-29 15:56:10 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2020-04-02 00:01:53 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -1175,6 +1188,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_orange_dye": "2020-03-29 16:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2020-04-02 00:01:53 +0000"
     },
     "done": true
   },
