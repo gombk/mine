@@ -1,14 +1,115 @@
-[01:52:20] [User Authenticator #30/INFO]: UUID of player Will_ is 990537d0-ca64-339e-95c5-3f78f48fca9e
-[01:52:20] [Server thread/INFO]: Will_[/187.101.0.55:5593] logged in with entity id 131227 at ([world]-278.700000025332, 64.0000002, -166.70000002533197)
-[02:02:06] [Server thread/WARN]: Will_ moved wrongly!
-[02:02:32] [Server thread/WARN]: Will_ moved wrongly!
-[02:02:59] [Server thread/WARN]: Boat moved wrongly!
-[02:02:59] [Server thread/WARN]: Boat moved wrongly!
-[02:02:59] [Server thread/WARN]: Boat moved wrongly!
-[02:02:59] [Server thread/WARN]: Boat moved wrongly!
-[02:03:31] [Server thread/WARN]: Will_ moved wrongly!
-[02:05:29] [Server thread/WARN]: Will_ moved wrongly!
-[02:12:13] [Server thread/INFO]: Will_ has made the advancement [What a Deal!]
-[02:22:20] [Server thread/INFO]: Will_ was blown up by Creeper
-[02:38:58] [Server thread/INFO]: Will_ lost connection: Disconnected
-[02:38:58] [Server thread/INFO]: Will_ left the game
+[22:43:55] [User Authenticator #33/INFO]: UUID of player Matherook is f81ad634-c34e-38d0-9c0c-b026664c6904
+[22:43:57] [Server thread/INFO]: Matherook[/170.247.55.81:51928] logged in with entity id 159938 at ([world]-272.74162282088434, 65.0, -180.05242652421214)
+[22:44:16] [Server thread/INFO]: Matherook issued server command: /whitelist add Cheza
+[22:44:17] [Server thread/INFO]: [Matherook: Added cheza to the whitelist]
+[22:44:22] [Server thread/INFO]: Matherook lost connection: Timed out
+[22:44:22] [Server thread/INFO]: Matherook left the game
+[22:44:56] [User Authenticator #34/INFO]: UUID of player Matherook is f81ad634-c34e-38d0-9c0c-b026664c6904
+[22:44:57] [Server thread/INFO]: Matherook[/170.247.55.81:51828] logged in with entity id 159989 at ([world]-270.77782563239015, 65.0, -184.61536925965754)
+[22:45:08] [Server thread/INFO]: Matherook issued server command: /weather clear
+[22:45:08] [Server thread/INFO]: [Matherook: Set the weather to clear]
+[22:45:32] [Server thread/INFO]: Matherook issued server command: /whitelist add Cheza
+[22:45:46] [User Authenticator #35/INFO]: UUID of player Dargaron is b72539c4-e3dd-30dd-bb44-becd8a45e4bd
+[22:45:46] [Server thread/INFO]: Dargaron[/131.196.77.9:43044] logged in with entity id 160081 at ([world]-235.7400841183794, 66.0, -241.8145087055496)
+[22:50:46] [Server thread/WARN]: Dargaron moved wrongly!
+[22:50:59] [Server thread/INFO]: Matherook issued server command: /weather clear
+[22:50:59] [Server thread/INFO]: [Matherook: Set the weather to clear]
+[22:51:21] [Server thread/INFO]: Matherook issued server command: /time set 0
+[22:51:21] [Server thread/INFO]: [Matherook: Set the time to 0]
+[22:51:22] [Server thread/INFO]: Matherook lost connection: Disconnected
+[22:51:22] [Server thread/INFO]: Matherook left the game
+[22:56:31] [Server thread/WARN]: Dargaron moved too quickly! -7.504785242262926,-4.0,7.540543360914768
+[23:00:12] [Server thread/INFO]: Dargaron lost connection: Disconnected
+[23:00:12] [Server thread/INFO]: Dargaron left the game
+[23:01:49] [User Authenticator #36/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:01:49] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6d1236c3[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:57269): You are not whitelisted on this server!
+[23:01:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d1236c3[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:57269) lost connection: You are not whitelisted on this server!
+[23:01:54] [User Authenticator #37/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:01:54] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6a22910d[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:56357): You are not whitelisted on this server!
+[23:01:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@6a22910d[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:56357) lost connection: You are not whitelisted on this server!
+[23:02:02] [User Authenticator #38/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:02:02] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@72be6a2f[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:55938): You are not whitelisted on this server!
+[23:02:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@72be6a2f[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:55938) lost connection: You are not whitelisted on this server!
+[23:02:09] [User Authenticator #39/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:02:09] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7d278fd6[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:55875): You are not whitelisted on this server!
+[23:02:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@7d278fd6[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:55875) lost connection: You are not whitelisted on this server!
+[23:02:27] [User Authenticator #40/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:02:27] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@341147a9[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:56660): You are not whitelisted on this server!
+[23:02:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@341147a9[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:56660) lost connection: You are not whitelisted on this server!
+[23:02:32] [User Authenticator #41/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:02:32] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@923f16c[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:56952): You are not whitelisted on this server!
+[23:02:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@923f16c[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:56952) lost connection: You are not whitelisted on this server!
+[23:02:38] [User Authenticator #42/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:02:38] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6706506b[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:57319): You are not whitelisted on this server!
+[23:02:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@6706506b[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:57319) lost connection: You are not whitelisted on this server!
+[23:12:02] [User Authenticator #43/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:12:03] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@378dc50f[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:56712): You are not whitelisted on this server!
+[23:12:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@378dc50f[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:56712) lost connection: You are not whitelisted on this server!
+[23:19:10] [User Authenticator #44/INFO]: UUID of player Matherook is f81ad634-c34e-38d0-9c0c-b026664c6904
+[23:19:10] [Server thread/INFO]: Matherook[/170.247.55.81:52358] logged in with entity id 162268 at ([world]-263.5812407151378, 65.0, -218.1418386479763)
+[23:19:31] [Server thread/INFO]: Matherook issued server command: /whitelist list
+[23:19:35] [Server thread/INFO]: Matherook lost connection: Timed out
+[23:19:35] [Server thread/INFO]: Matherook left the game
+[23:19:44] [User Authenticator #45/INFO]: UUID of player Matherook is f81ad634-c34e-38d0-9c0c-b026664c6904
+[23:19:44] [Server thread/INFO]: Matherook[/170.247.55.81:52419] logged in with entity id 162324 at ([world]-262.5292654369984, 65.0, -218.33954220575987)
+[23:19:51] [Server thread/INFO]: Matherook issued server command: /whitelist list
+[23:20:04] [Server thread/INFO]: Matherook issued server command: /whitelist add Cheza
+[23:21:09] [User Authenticator #46/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:21:09] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5d85cea3[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:57170): You are not whitelisted on this server!
+[23:21:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@5d85cea3[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:57170) lost connection: You are not whitelisted on this server!
+[23:21:34] [User Authenticator #47/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:21:34] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@74ed59a7[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:55627): You are not whitelisted on this server!
+[23:21:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@74ed59a7[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:55627) lost connection: You are not whitelisted on this server!
+[23:22:21] [User Authenticator #48/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:22:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@99a986a[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:56100): You are not whitelisted on this server!
+[23:22:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@99a986a[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:56100) lost connection: You are not whitelisted on this server!
+[23:22:30] [User Authenticator #49/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:22:30] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3cab23c0[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:56241): You are not whitelisted on this server!
+[23:22:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@3cab23c0[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:56241) lost connection: You are not whitelisted on this server!
+[23:22:48] [User Authenticator #50/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:22:48] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4c95280c[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:57327): You are not whitelisted on this server!
+[23:22:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@4c95280c[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:57327) lost connection: You are not whitelisted on this server!
+[23:22:53] [User Authenticator #51/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:22:53] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@265732ab[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:55663): You are not whitelisted on this server!
+[23:22:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@265732ab[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:55663) lost connection: You are not whitelisted on this server!
+[23:22:57] [User Authenticator #52/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:22:57] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6e125f0b[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:56374): You are not whitelisted on this server!
+[23:22:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@6e125f0b[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:56374) lost connection: You are not whitelisted on this server!
+[23:27:00] [User Authenticator #53/INFO]: UUID of player GOM is 6e3c9853-b56a-351c-9278-86bca0480da4
+[23:27:00] [Server thread/INFO]: GOM[/187.183.39.179:4684] logged in with entity id 163186 at ([world]-190.3380688027762, 72.0, -208.44397900405835)
+[23:27:16] [Server thread/INFO]: Matherook issued server command: /op GOM
+[23:27:16] [Server thread/INFO]: [Matherook: Made GOM a server operator]
+[23:27:21] [Server thread/INFO]: GOM issued server command: /whitelist
+[23:27:22] [User Authenticator #54/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:27:23] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6b0431e6[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:56542): You are not whitelisted on this server!
+[23:27:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@6b0431e6[id=139eab66-c3b4-30c6-90ea-c8889728f3f0,name=Cheza,properties={},legacy=false] (/131.196.78.229:56542) lost connection: You are not whitelisted on this server!
+[23:27:24] [Server thread/INFO]: GOM issued server command: /whitelist off
+[23:27:24] [Server thread/INFO]: [GOM: Whitelist is now turned off]
+[23:27:40] [Server thread/INFO]: GOM issued server command: /gamemode creative
+[23:27:40] [Server thread/INFO]: [GOM: Set own game mode to Creative Mode]
+[23:27:40] [User Authenticator #55/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:27:40] [Server thread/INFO]: Cheza[/131.196.78.229:56809] logged in with entity id 163301 at ([world]-118.5, 64.0, -167.5)
+[23:27:45] [Server thread/INFO]: GOM issued server command: /whitelist add Cheza
+[23:27:45] [Server thread/INFO]: [GOM: Added Cheza to the whitelist]
+[23:27:49] [Server thread/INFO]: GOM issued server command: /whitelist on
+[23:27:49] [Server thread/INFO]: [GOM: Whitelist is now turned on]
+[23:28:00] [Server thread/INFO]: GOM issued server command: /gamemode survival
+[23:28:00] [Server thread/INFO]: [GOM: Set own game mode to Survival Mode]
+[23:28:03] [Server thread/INFO]: GOM lost connection: Disconnected
+[23:28:03] [Server thread/INFO]: GOM left the game
+[23:28:05] [Server thread/INFO]: Cheza lost connection: Timed out
+[23:28:05] [Server thread/INFO]: Cheza left the game
+[23:28:29] [User Authenticator #56/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
+[23:28:30] [Server thread/INFO]: Cheza[/131.196.78.229:55660] logged in with entity id 163492 at ([world]-118.5, 64.0, -167.5)
+[23:29:07] [Server thread/INFO]: Matherook issued server command: /tp Cheza Matherook
+[23:29:07] [Server thread/INFO]: [Matherook: Teleported Cheza to Matherook]
+[23:29:10] [Async Chat Thread - #14/INFO]: <Matherook> oi
+[23:29:14] [Async Chat Thread - #14/INFO]: <Cheza> oi uahsua
+[23:29:18] [Async Chat Thread - #14/INFO]: <Matherook> kkkk
+[23:29:22] [Async Chat Thread - #14/INFO]: <Matherook> essa é nossa vila
+[23:29:30] [Async Chat Thread - #14/INFO]: <Matherook> fica avontade, pode fazer a casa onde quiser
+[23:29:36] [Async Chat Thread - #14/INFO]: <Matherook> vou te apresentar onde tem mina e comida
+[23:29:41] [Async Chat Thread - #14/INFO]: <Cheza> ta vo acha um lugar
+[23:29:42] [Async Chat Thread - #14/INFO]: <Matherook> achegai
+[23:30:04] [Async Chat Thread - #14/INFO]: <Matherook> tem melancia ai
+[23:30:12] [Async Chat Thread - #14/INFO]: <Matherook> e uns pao ai
