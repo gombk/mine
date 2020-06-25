@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-06-19 16:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-24 02:13:05 +0000"
@@ -317,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2020-06-19 16:29:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2020-05-25 22:41:21 +0000"
@@ -512,6 +524,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-24 02:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2020-06-19 03:27:22 +0000"
     },
     "done": true
   },
@@ -1651,6 +1669,7 @@
       "minecraft:forest": "2020-03-25 03:31:28 +0000",
       "minecraft:taiga": "2020-03-25 03:29:50 +0000",
       "minecraft:desert_hills": "2020-06-12 02:51:47 +0000",
+      "minecraft:giant_tree_taiga": "2020-06-19 23:49:59 +0000",
       "minecraft:deep_cold_ocean": "2020-03-28 21:38:07 +0000",
       "minecraft:snowy_tundra": "2020-06-15 22:40:29 +0000",
       "minecraft:taiga_hills": "2020-03-25 03:30:23 +0000",
@@ -1660,6 +1679,7 @@
       "minecraft:jungle": "2020-03-24 00:59:25 +0000",
       "minecraft:birch_forest": "2020-03-30 00:02:50 +0000",
       "minecraft:jungle_hills": "2020-03-24 01:03:38 +0000",
+      "minecraft:snowy_beach": "2020-06-19 16:27:44 +0000",
       "minecraft:bamboo_jungle": "2020-03-24 00:59:35 +0000",
       "minecraft:warm_ocean": "2020-03-30 00:02:33 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-03-30 00:01:53 +0000",
@@ -1803,6 +1823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-06-18 04:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-24 01:10:48 +0000"
@@ -1824,6 +1850,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2020-03-26 02:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-06-19 16:19:20 +0000"
     },
     "done": true
   },
@@ -2022,6 +2054,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2020-03-25 04:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-06-19 16:29:06 +0000"
     },
     "done": true
   },
@@ -2458,7 +2496,10 @@
       "sweet_berries": "2020-03-26 00:00:14 +0000",
       "cooked_beef": "2020-03-24 02:40:51 +0000",
       "chorus_fruit": "2020-04-01 23:46:41 +0000",
+      "baked_potato": "2020-06-18 05:23:39 +0000",
+      "tropical_fish": "2020-06-18 02:35:10 +0000",
       "apple": "2020-06-09 19:10:09 +0000",
+      "potato": "2020-06-18 02:37:00 +0000",
       "cooked_cod": "2020-03-28 06:00:42 +0000",
       "pumpkin_pie": "2020-04-01 04:14:27 +0000",
       "bread": "2020-06-06 04:04:06 +0000",
@@ -2995,6 +3036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2020-06-18 04:38:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2020-03-25 00:15:18 +0000"
@@ -3040,6 +3087,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-25 00:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2020-06-21 01:17:11 +0000"
     },
     "done": true
   },
@@ -3205,6 +3258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2020-06-18 04:27:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-25 00:34:44 +0000"
@@ -3220,6 +3279,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-06-09 19:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-06-19 16:21:00 +0000"
     },
     "done": true
   },
@@ -3292,6 +3357,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-03-24 05:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2020-06-18 04:47:24 +0000"
     },
     "done": true
   },
@@ -3625,6 +3696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-06-18 06:22:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-03-28 03:16:20 +0000"
@@ -3694,6 +3771,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2020-03-28 06:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2020-06-19 04:12:41 +0000"
     },
     "done": true
   },
@@ -3772,6 +3855,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-05-25 23:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2020-06-18 04:47:22 +0000"
     },
     "done": true
   },

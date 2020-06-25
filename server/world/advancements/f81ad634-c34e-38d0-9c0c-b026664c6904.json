@@ -876,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2020-06-18 04:50:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-03-31 01:39:19 +0000"
@@ -1158,6 +1164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2020-06-18 04:16:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2020-06-11 20:28:26 +0000"
@@ -1245,6 +1257,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2020-06-04 02:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2020-06-17 00:47:25 +0000"
     },
     "done": true
   },
@@ -1632,6 +1650,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2020-03-28 06:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-06-18 04:50:52 +0000"
     },
     "done": true
   },
@@ -2091,6 +2115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2020-06-17 00:15:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-03-26 02:40:07 +0000"
@@ -2229,6 +2259,7 @@
       "honey_bottle": "2020-03-25 22:49:46 +0000",
       "sweet_berries": "2020-04-01 03:16:20 +0000",
       "cooked_beef": "2020-03-24 01:40:57 +0000",
+      "baked_potato": "2020-06-20 03:35:20 +0000",
       "apple": "2020-03-27 02:16:45 +0000",
       "potato": "2020-05-31 06:22:04 +0000",
       "cooked_cod": "2020-03-24 01:31:37 +0000",
@@ -2362,6 +2393,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-05-21 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2020-06-17 00:15:58 +0000"
     },
     "done": true
   },
@@ -3085,6 +3122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2020-06-17 00:15:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-24 02:24:42 +0000"
@@ -3358,6 +3401,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2020-06-11 18:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2020-06-18 04:16:11 +0000"
     },
     "done": true
   },

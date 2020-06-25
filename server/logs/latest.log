@@ -1,16 +1,9 @@
-[00:04:34] [Server thread/INFO]: GOM issued server command: /weather clear
-[00:04:34] [Server thread/INFO]: [GOM: Set the weather to clear]
-[00:08:07] [User Authenticator #73/INFO]: UUID of player Suushi is 33989304-e843-3900-980d-2803cf0259e7
-[00:08:07] [Server thread/INFO]: Suushi[/187.87.119.53:53321] logged in with entity id 514554 at ([world]-238.4440423361769, 67.0, -230.13278313857865)
-[00:08:32] [Server thread/INFO]: Suushi lost connection: Timed out
-[00:08:32] [Server thread/INFO]: Suushi left the game
-[00:08:42] [User Authenticator #74/INFO]: UUID of player Suushi is 33989304-e843-3900-980d-2803cf0259e7
-[00:08:42] [Server thread/INFO]: Suushi[/187.87.119.53:52005] logged in with entity id 514646 at ([world]-241.7766855559903, 67.0, -231.6378329845111)
-[00:08:53] [Async Chat Thread - #16/INFO]: <Suushi> oi santoli
-[00:09:30] [Async Chat Thread - #16/INFO]: <Suushi> oi santoli
-[00:12:46] [User Authenticator #75/INFO]: UUID of player Matherook is f81ad634-c34e-38d0-9c0c-b026664c6904
-[00:12:46] [Server thread/INFO]: Matherook[/170.247.55.81:51685] logged in with entity id 515266 at ([world]-254.64527365600412, 133.0, -460.8625372778627)
-[00:12:50] [Server thread/WARN]: Suushi moved wrongly!
-[00:13:02] [Server thread/INFO]: Matherook issued server command: /weather clear
-[00:13:02] [Server thread/INFO]: [Matherook: Set the weather to clear]
-[00:14:15] [Async Chat Thread - #17/INFO]: <Suushi> holudo
+[01:10:51] [Server thread/INFO]: [CommandBlocks] You are running the latest version.
+[04:10:51] [Server thread/INFO]: [CommandBlocks] You are running the latest version.
+[07:10:51] [Server thread/INFO]: [CommandBlocks] You are running the latest version.
+[10:10:51] [Server thread/INFO]: [CommandBlocks] You are running the latest version.
+[13:10:51] [Server thread/INFO]: [CommandBlocks] You are running the latest version.
+[16:10:51] [Server thread/INFO]: [CommandBlocks] You are running the latest version.
+[19:10:51] [Server thread/INFO]: [CommandBlocks] You are running the latest version.
+[22:10:51] [Server thread/INFO]: [CommandBlocks] A new release of CommandBlocks, v1.2.4, is available! You are still on v1.2.3.
+[22:10:51] [Server thread/INFO]: [CommandBlocks] To download this update, head over to https://www.spigotmc.org/resources/62720/updates in your browser.
