@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-06-27 00:26:38 +0000",
+      "minecraft:bamboo_jungle": "2020-06-27 00:30:41 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2567
+}
