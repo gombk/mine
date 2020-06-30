@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "f81ad634-c34e-38d0-9c0c-b026664c6904",
+    "name": "Matherook",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "6e3c9853-b56a-351c-9278-86bca0480da4",
     "name": "GOM",
     "level": 4,

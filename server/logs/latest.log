@@ -1,226 +1,727 @@
-[00:25:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[00:25:39] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[00:25:42] [Worker-Main-2/INFO]: Loaded 7 recipes
-[00:25:45] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[00:25:45] [Server thread/INFO]: Loading properties
-[00:25:45] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-8fc58f1-50484a6 (MC: 1.16.1) (Implementing API version 1.16.1-R0.1-SNAPSHOT)
-[00:25:46] [Server thread/INFO]: Debug logging is disabled
-[00:25:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:25:46] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:25:46] [Server thread/INFO]: Default game type: SURVIVAL
-[00:25:46] [Server thread/INFO]: Generating keypair
-[00:25:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:25:47] [Server thread/INFO]: Using epoll channel type
-[00:25:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:25:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:25:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:25:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:25:47] [Server thread/INFO]: Preparing level "world"
-[00:25:47] [Server thread/INFO]: -------- World Settings For [world] --------
-[00:25:47] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:25:47] [Server thread/INFO]: Mob Spawn Range: 6
-[00:25:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:25:47] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:25:47] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:25:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:25:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:25:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:25:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[00:25:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[00:25:47] [Server thread/INFO]: Potato Growth Modifier: 100%
-[00:25:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:25:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:25:47] [Server thread/INFO]: Vine Growth Modifier: 100%
-[00:25:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[00:25:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[00:25:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[00:25:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[00:25:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[00:25:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[00:25:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[00:25:47] [Server thread/INFO]: Max TNT Explosions: 100
-[00:25:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:25:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:25:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:25:48] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:25:48] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:25:48] [Server thread/INFO]: View Distance: 10
-[00:25:48] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[00:25:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:25:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:25:48] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[00:25:48] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:25:48] [Server thread/INFO]: Mob Spawn Range: 6
-[00:25:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Potato Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Vine Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[00:25:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[00:25:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[00:25:48] [Server thread/INFO]: Max TNT Explosions: 100
-[00:25:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:25:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:25:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:25:48] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:25:48] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:25:48] [Server thread/INFO]: View Distance: 10
-[00:25:48] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[00:25:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:25:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:25:48] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[00:25:48] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:25:48] [Server thread/INFO]: Mob Spawn Range: 6
-[00:25:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Potato Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Vine Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[00:25:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[00:25:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[00:25:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[00:25:48] [Server thread/INFO]: Max TNT Explosions: 100
-[00:25:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:25:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:25:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:25:48] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:25:48] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:25:48] [Server thread/INFO]: View Distance: 10
-[00:25:48] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[00:25:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:25:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:25:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:25:53] [Server thread/INFO]: Preparing spawn area: 0%
-[00:25:53] [Server thread/INFO]: Preparing spawn area: 0%
-[00:25:53] [Server thread/INFO]: Preparing spawn area: 0%
-[00:25:53] [Server thread/INFO]: Preparing spawn area: 0%
-[00:25:53] [Server thread/INFO]: Preparing spawn area: 0%
-[00:25:53] [Server thread/INFO]: Preparing spawn area: 0%
-[00:25:53] [Server thread/INFO]: Preparing spawn area: 0%
-[00:25:53] [Server thread/INFO]: Preparing spawn area: 0%
-[00:25:53] [Server thread/INFO]: Preparing spawn area: 0%
-[00:25:53] [Server thread/INFO]: Preparing spawn area: 0%
-[00:25:53] [Server thread/INFO]: Preparing spawn area: 0%
-[00:25:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:25:54] [Worker-Main-2/INFO]: Preparing spawn area: 31%
-[00:25:55] [Server thread/INFO]: Preparing spawn area: 31%
-[00:25:55] [Server thread/INFO]: Preparing spawn area: 31%
-[00:25:56] [Server thread/INFO]: Time elapsed: 8008 ms
-[00:25:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:26:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:00] [Server thread/INFO]: Time elapsed: 4090 ms
-[00:26:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:26:02] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:02] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:02] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:02] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:02] [Server thread/INFO]: Time elapsed: 2037 ms
-[00:26:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:26:03] [Server thread/INFO]: Done (15.278s)! For help, type "help"
-[00:26:14] [User Authenticator #1/INFO]: UUID of player GOM is 6e3c9853-b56a-351c-9278-86bca0480da4
-[00:26:14] [User Authenticator #2/INFO]: UUID of player Slim is 3e6bd895-9b58-341e-9ad3-2ff57c59e281
-[00:26:16] [Server thread/INFO]: GOM[/187.183.39.72:25119] logged in with entity id 291 at ([world_nether]-465.01077792348235, 34.0, 254.31123855774774)
-[00:26:19] [Server thread/INFO]: Slim[/170.247.55.131:17290] logged in with entity id 305 at ([world_nether]100.89571878562612, 67.0, -243.45737703894838)
-[00:26:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5148ms or 102 ticks behind
-[00:26:38] [User Authenticator #3/INFO]: UUID of player jrgeser is 12a3609a-0f75-37c8-89e4-94e88c12dc39
-[00:26:38] [Server thread/INFO]: jrgeser[/177.23.232.35:38001] logged in with entity id 504 at ([world]-225.5, 69.0, 54.5)
-[00:26:48] [User Authenticator #4/INFO]: UUID of player Suushi is 33989304-e843-3900-980d-2803cf0259e7
-[00:26:49] [Server thread/INFO]: Suushi[/187.87.127.214:50768] logged in with entity id 648 at ([world_nether]-467.260528461519, 35.0, 257.28995456989793)
-[00:26:49] [Server thread/INFO]: GOM issued server command: /whitelist add jrgeser
-[00:26:49] [Server thread/INFO]: [GOM: Added jrgeser to the whitelist]
-[00:27:03] [Server thread/INFO]: jrgeser lost connection: Timed out
-[00:27:03] [Server thread/INFO]: jrgeser left the game
-[00:27:08] [Server thread/INFO]: GOM issued server command: /
-[00:27:13] [Server thread/INFO]: GOM has made the advancement [This Boat Has Legs]
-[00:27:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31053ms or 621 ticks behind
-[00:27:34] [Server thread/WARN]: Strider (vehicle of Suushi) moved wrongly! 0.35191478687198696
-[00:27:40] [User Authenticator #5/INFO]: UUID of player jrgeser is 12a3609a-0f75-37c8-89e4-94e88c12dc39
-[00:27:40] [Server thread/INFO]: jrgeser[/177.23.232.35:37537] logged in with entity id 753 at ([world]-225.5, 69.0, 54.5)
-[00:28:05] [Server thread/INFO]: jrgeser lost connection: Timed out
-[00:28:05] [Server thread/INFO]: jrgeser left the game
-[00:28:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21834ms or 436 ticks behind
-[00:28:27] [User Authenticator #6/INFO]: UUID of player jrgeser is 12a3609a-0f75-37c8-89e4-94e88c12dc39
-[00:28:27] [Server thread/INFO]: jrgeser[/177.23.232.35:37535] logged in with entity id 971 at ([world]-225.5, 69.0, 54.5)
-[00:28:52] [Server thread/INFO]: jrgeser lost connection: Timed out
-[00:28:52] [Server thread/INFO]: jrgeser left the game
-[00:29:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25698ms or 513 ticks behind
-[00:29:34] [User Authenticator #7/INFO]: UUID of player jrgeser is 12a3609a-0f75-37c8-89e4-94e88c12dc39
-[00:29:34] [Server thread/INFO]: jrgeser[/177.23.232.35:38008] logged in with entity id 1181 at ([world]-225.5, 69.0, 54.5)
-[00:29:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
-[00:29:57] [Server thread/INFO]: GOM issued server command: /teleport gom jrgeser
-[00:29:57] [Server thread/INFO]: [GOM: Teleported GOM to jrgeser]
-[00:29:59] [Server thread/INFO]: jrgeser lost connection: Timed out
-[00:29:59] [Server thread/INFO]: jrgeser left the game
-[00:30:32] [User Authenticator #8/INFO]: UUID of player jrgeser is 12a3609a-0f75-37c8-89e4-94e88c12dc39
-[00:30:33] [Server thread/INFO]: jrgeser[/177.23.232.35:37396] logged in with entity id 2613 at ([world]-225.5, 69.0, 54.5)
-[00:30:40] [Server thread/INFO]: GOM issued server command: /teleport jrgeser GOM
-[00:30:40] [Server thread/INFO]: [GOM: Teleported jrgeser to GOM]
-[00:30:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20907ms or 418 ticks behind
-[00:30:58] [Server thread/INFO]: jrgeser lost connection: Timed out
-[00:30:58] [Server thread/INFO]: jrgeser left the game
-[00:31:19] [User Authenticator #9/INFO]: UUID of player jrgeser is 12a3609a-0f75-37c8-89e4-94e88c12dc39
-[00:31:19] [Server thread/INFO]: jrgeser[/177.23.232.35:37410] logged in with entity id 3047 at ([world]-299.31779512654595, 63.0, -185.30269537759693)
-[00:31:44] [Server thread/INFO]: jrgeser lost connection: Timed out
-[00:31:44] [Server thread/INFO]: jrgeser left the game
-[00:32:26] [User Authenticator #10/INFO]: UUID of player jrgeser is 12a3609a-0f75-37c8-89e4-94e88c12dc39
-[00:32:26] [Server thread/INFO]: jrgeser[/177.23.232.35:37920] logged in with entity id 3372 at ([world]-299.31779512654595, 63.0, -185.30269537759693)
-[00:32:50] [Server thread/INFO]: jrgeser issued server command: /
-[00:32:51] [Server thread/INFO]: jrgeser lost connection: Timed out
-[00:32:51] [Server thread/INFO]: jrgeser left the game
-[00:33:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9981ms or 199 ticks behind
-[00:33:18] [User Authenticator #11/INFO]: UUID of player Cheza is 139eab66-c3b4-30c6-90ea-c8889728f3f0
-[00:33:20] [Server thread/INFO]: Cheza[/131.196.78.229:56673] logged in with entity id 3641 at ([world]-334.52307151567953, 63.35926460940416, -161.672060634157)
-[00:33:38] [User Authenticator #12/INFO]: UUID of player jrgeser is 12a3609a-0f75-37c8-89e4-94e88c12dc39
-[00:33:38] [Server thread/INFO]: jrgeser[/177.23.232.35:37807] logged in with entity id 3757 at ([world]-299.31779512654595, 63.0, -185.30269537759693)
-[00:33:45] [Server thread/INFO]: jrgeser lost connection: Disconnected
-[00:33:45] [Server thread/INFO]: jrgeser left the game
-[00:34:09] [User Authenticator #13/INFO]: UUID of player jrgeser is 12a3609a-0f75-37c8-89e4-94e88c12dc39
-[00:34:10] [Server thread/INFO]: jrgeser[/177.23.232.35:37531] logged in with entity id 3875 at ([world]-299.31779512654595, 63.0, -185.30269537759693)
-[00:34:35] [Server thread/INFO]: jrgeser lost connection: Timed out
-[00:34:35] [Server thread/INFO]: jrgeser left the game
-[00:34:45] [Server thread/WARN]: Cheza moved wrongly!
-[00:36:38] [Server thread/WARN]: Strider (vehicle of Suushi) moved wrongly! 0.7595655496130576
-[00:36:38] [Server thread/WARN]: Strider (vehicle of Suushi) moved wrongly! 0.3815034658025809
-[00:36:38] [Server thread/WARN]: Strider (vehicle of Suushi) moved wrongly! 0.7235486849648396
-[00:36:38] [Server thread/WARN]: Strider (vehicle of Suushi) moved wrongly! 0.36864591942884317
-[00:37:33] [Server thread/INFO]: GOM issued server command: /teleport Slim GOM
-[00:37:33] [Server thread/INFO]: [GOM: Teleported Slim to GOM]
-[00:37:35] [Server thread/INFO]: Suushi lost connection: Disconnected
-[00:37:35] [Server thread/INFO]: Suushi left the game
-[00:37:36] [Server thread/INFO]: GOM issued server command: /teleport Suushi GOM
-[00:37:39] [Server thread/INFO]: GOM issued server command: /teleport Suushi GOM
-[00:37:45] [User Authenticator #14/INFO]: UUID of player Suushi is 33989304-e843-3900-980d-2803cf0259e7
-[00:37:45] [Server thread/INFO]: Suushi[/187.87.127.214:49888] logged in with entity id 4979 at ([world_nether]-408.8914033710014, 34.0, 195.38031843075635)
-[00:37:46] [Server thread/INFO]: GOM issued server command: /teleport Suushi GOM
-[00:37:46] [Server thread/INFO]: [GOM: Teleported Suushi to GOM]
-[00:38:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5051ms or 101 ticks behind
+[00:00:07] [Server thread/WARN]: Matherook moved too quickly! -18.014409938588756,0.460419669193854,1.8394535714299138
+[00:00:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14730ms or 294 ticks behind
+[00:00:26] [Server thread/WARN]: Matherook moved too quickly! -8.65513643324141,3.9025443277820386,6.836211696725968
+[00:00:40] [Server thread/WARN]: Matherook moved too quickly! -1.8935356716345382,5.380361394235862,-12.139931215564701
+[00:00:40] [Server thread/WARN]: Matherook moved too quickly! -1.9232591523434053,5.3066381780875105,-11.69281141817791
+[00:01:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17201ms or 344 ticks behind
+[00:01:52] [Server thread/WARN]: Matherook moved too quickly! -1.7731942436090549,1.014187345517925,17.542253267115967
+[00:01:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24158ms or 483 ticks behind
+[00:02:08] [Server thread/WARN]: Cheza moved wrongly!
+[00:02:15] [Server thread/INFO]: [@: Teleported Slim to -240.5, 67.0, -214.5]
+[00:02:20] [Server thread/INFO]: [@: Set the time to 1000]
+[00:02:20] [Server thread/INFO]: [@: Set the weather to clear]
+[00:02:31] [Server thread/WARN]: GOM moved too quickly! 6.049995246398026,7.49659919984218,-6.325797364189043
+[00:02:34] [Server thread/WARN]: GOM moved too quickly! -12.495291748511619,1.599604326127448,-34.03191772971746
+[00:02:36] [Server thread/WARN]: GOM moved too quickly! -2.240749522803924,16.629416332322208,-21.24281921337564
+[00:02:36] [Server thread/WARN]: GOM moved too quickly! -2.236805730361766,16.027959764828196,-20.55899067789244
+[00:02:39] [Server thread/WARN]: GOM moved too quickly! 0.9101277280690852,13.54551715098279,-23.953731425390572
+[00:02:39] [Server thread/WARN]: GOM moved too quickly! 0.9469461625761824,13.067708388497266,-23.14960770838877
+[00:02:42] [Async Chat Thread - #19/INFO]: <Suushi> 2 tijolo do nether
+[00:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19592ms or 391 ticks behind
+[00:02:48] [Server thread/INFO]: GOM issued server command: /give Suushi minecraft:brick_stairs
+[00:02:48] [Server thread/INFO]: [GOM: Gave 1 [Brick Stairs] to Suushi]
+[00:02:49] [Async Chat Thread - #19/INFO]: <Suushi> 1 vidraça preta
+[00:03:00] [Server thread/INFO]: GOM issued server command: /give Suushi minecraft:brick_stairs
+[00:03:00] [Server thread/INFO]: [GOM: Gave 1 [Brick Stairs] to Suushi]
+[00:03:05] [Server thread/WARN]: Suushi moved too quickly! 12.560500470768716,4.681037018270459,-12.10819899289902
+[00:03:10] [Server thread/INFO]: GOM issued server command: /give Suushi minecraft:black_stained_glass_pane
+[00:03:10] [Server thread/INFO]: [GOM: Gave 1 [Black Stained Glass Pane] to Suushi]
+[00:03:12] [Server thread/WARN]: Suushi moved too quickly! -15.218711045916791,-2.869042698541719,-9.560044200461789
+[00:03:20] [Server thread/INFO]: GOM issued server command: /give Suushi minecraft:nether_brick 2
+[00:03:20] [Server thread/INFO]: [GOM: Gave 2 [Nether Brick] to Suushi]
+[00:03:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13454ms or 269 ticks behind
+[00:04:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11468ms or 229 ticks behind
+[00:04:53] [Server thread/INFO]: GOM issued server command: /give Suushi minecraft:nether_bricks 2
+[00:04:53] [Server thread/INFO]: [GOM: Gave 2 [Nether Bricks] to Suushi]
+[00:04:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14074ms or 281 ticks behind
+[00:05:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12483ms or 249 ticks behind
+[00:06:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5702ms or 114 ticks behind
+[00:06:35] [Server thread/WARN]: GOM moved too quickly! -107.53581571287805,0.044137506274921634,14.867309240239877
+[00:06:35] [Server thread/WARN]: Gayba1 moved too quickly! 7.077029817218971,-14.0,-6.115382424665597
+[00:06:38] [Server thread/WARN]: GOM moved too quickly! 4.275715903224977,-7.010448027665021,45.56697974882445
+[00:06:43] [Server thread/WARN]: GOM moved too quickly! 19.831077819960086,-3.0284980429034363,0.9856457064473148
+[00:06:46] [Server thread/WARN]: GOM moved too quickly! 11.813096860165643,-12.766430979910695,-19.671472394306875
+[00:06:48] [Server thread/WARN]: GOM moved too quickly! 9.045266107202053,-9.950373919286974,-26.379466906105165
+[00:06:53] [Server thread/WARN]: Suushi moved too quickly! 20.33688948397628,-5.126256681964605,-10.023917558142557
+[00:06:56] [Server thread/WARN]: Suushi moved too quickly! 12.736867361063958,-9.389052287937957,7.351179858579144
+[00:06:56] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:06:56] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:07:01] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:07:01] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:07:01] [Server thread/WARN]: Suushi moved too quickly! 21.840309807328396,10.07508328605843,-3.1302685862698922
+[00:07:06] [Server thread/WARN]: Suushi moved too quickly! -17.965015991073017,-4.853265603494734,1.7183912978112517
+[00:07:08] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:07:08] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:07:08] [Server thread/WARN]: Matherook moved too quickly! -1.6470302476827499,-6.7015727725563465,16.048674525858644
+[00:07:11] [Server thread/WARN]: Matherook moved too quickly! -13.174572969437378,-11.177950316409266,8.79210986412511
+[00:07:11] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:07:11] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:07:13] [Server thread/WARN]: Suushi moved too quickly! 2.997566392737724,16.62599345478077,14.22836477265355
+[00:07:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20230ms or 404 ticks behind
+[00:07:16] [Server thread/WARN]: Matherook moved too quickly! -4.522579229564258,8.14931013570893,-24.507945762003715
+[00:07:16] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:07:16] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:07:18] [Server thread/WARN]: Matherook moved too quickly! -13.922893599662814,-16.600228291254012,3.242847361519523
+[00:07:18] [Server thread/WARN]: Suushi moved too quickly! -14.674721902896977,-5.1788983351402464,-20.84844332916407
+[00:07:21] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:07:21] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:07:23] [Server thread/WARN]: Matherook moved too quickly! 10.751886894747315,22.615026445974323,1.704608376132967
+[00:07:23] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:07:23] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:07:27] [Server thread/INFO]: Matherook lost connection: Disconnected
+[00:07:27] [Server thread/INFO]: Matherook left the game
+[00:07:28] [Server thread/INFO]: Suushi lost connection: Disconnected
+[00:07:28] [Server thread/INFO]: Suushi left the game
+[00:07:28] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:07:28] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:07:32] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:07:32] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:07:52] [Server thread/WARN]: GOM moved too quickly! -0.16888928266867254,31.680291899975597,24.94702235754272
+[00:07:54] [Server thread/WARN]: GOM moved too quickly! -7.897000867726732,4.568419435904062,31.413365979145908
+[00:07:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11171ms or 223 ticks behind
+[00:07:57] [Server thread/WARN]: GOM moved too quickly! -16.078069984710254,8.445890591301435,-5.3305821960582875
+[00:08:00] [Server thread/WARN]: GOM moved too quickly! 13.628504495819897,9.48188066695765,-33.82992540821874
+[00:08:02] [Server thread/WARN]: GOM moved too quickly! 20.939770986908343,4.31271866223841,-2.6347639150112627
+[00:08:06] [Server thread/INFO]: [@: Teleported Cheza to -240.5, 67.0, -214.5]
+[00:08:14] [Server thread/WARN]: GOM moved too quickly! 40.51034053444535,-3.128581925282589,2.21615087134154
+[00:08:18] [Server thread/WARN]: GOM moved too quickly! -9.156277355136126,0.49436111221791634,37.49572536122116
+[00:08:24] [Server thread/WARN]: GOM moved too quickly! -41.06029736641045,-9.010094878702589,6.603848803815595
+[00:08:36] [Server thread/WARN]: GOM moved too quickly! -20.51911870371157,-2.068927390404312,16.36909667507024
+[00:08:39] [Server thread/WARN]: Slim moved too quickly! 308.1218338118539,-22.8125,196.68192635533853
+[00:08:41] [Server thread/INFO]: GOM issued server command: /teleport GOM Gayba1
+[00:08:41] [Server thread/INFO]: [GOM: Teleported GOM to Gayba1]
+[00:08:46] [Server thread/WARN]: Slim moved too quickly! 10.36519198504368,-0.12160004615783748,0.2735877002152426
+[00:08:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21728ms or 434 ticks behind
+[00:08:51] [Server thread/WARN]: Dargaron moved too quickly! -20.9932780254951,5.843961690181743,-1.3898384241778672
+[00:08:51] [Server thread/WARN]: Slim moved too quickly! 10.917059077871926,-0.20000004768371582,-0.340796171795683
+[00:08:51] [Server thread/WARN]: Slim moved too quickly! 10.407192910511071,-0.20000004768371582,-0.308748930527027
+[00:08:53] [Server thread/WARN]: Dargaron moved too quickly! -24.17926310349077,-1.755702455229624,19.659270730609705
+[00:09:00] [Server thread/WARN]: Dargaron moved too quickly! 20.2677253901104,7.925708035340961,17.641114183985096
+[00:09:03] [Server thread/WARN]: Dargaron moved too quickly! 0.6709136325942495,5.26012501340503,-17.200090434265633
+[00:09:10] [Server thread/WARN]: Slim moved too quickly! 10.534748013809747,0.12160004615783748,0.12946387639079138
+[00:09:13] [Server thread/WARN]: Slim moved too quickly! 11.646489070700426,0.20000004768371582,-0.25873655774742765
+[00:09:15] [Server thread/WARN]: Slim moved too quickly! 11.057817644490228,0.0,-0.2453996186455163
+[00:09:15] [Server thread/WARN]: Slim moved too quickly! 10.65462405094354,0.0,-0.2363234159257106
+[00:09:18] [Server thread/WARN]: Slim moved too quickly! 11.101004846838691,0.0,-0.23765254679108094
+[00:09:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21659ms or 433 ticks behind
+[00:09:45] [Server thread/INFO]: [@: Set the weather to clear]
+[00:09:54] [Server thread/WARN]: Dargaron moved too quickly! 10.884836815743483,21.079624958406498,-4.975819867224857
+[00:10:26] [Server thread/INFO]: GOM issued server command: /give Gayba1 minecraft:flint_and_steel 5
+[00:10:26] [Server thread/INFO]: [GOM: Gave 5 [Flint and Steel] to Gayba1]
+[00:10:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23547ms or 470 ticks behind
+[00:10:38] [Server thread/WARN]: GOM moved too quickly! 27.944905262681857,6.558871831484737,-7.5193011026816805
+[00:10:41] [Server thread/WARN]: GOM moved too quickly! 24.530058030731936,0.7679121561174043,-6.4635840015079395
+[00:10:43] [Server thread/WARN]: GOM moved too quickly! 30.44465440989279,2.8090930888071313,-24.796490975015075
+[00:10:46] [Server thread/WARN]: GOM moved too quickly! 18.459572068842334,-0.6802148963899555,-25.043917636826365
+[00:10:51] [Server thread/WARN]: GOM moved too quickly! -8.488836474038862,15.496107433342388,-22.114855412227598
+[00:10:53] [Server thread/WARN]: GOM moved too quickly! -15.003926783108056,4.663286507888074,-21.209107314707012
+[00:10:56] [Server thread/WARN]: GOM moved too quickly! -5.44546583918725,-4.214978168352104,-37.00245015772475
+[00:11:01] [Server thread/WARN]: GOM moved too quickly! 26.52486756923298,-6.0317910651778845,3.3073228819167184
+[00:11:08] [Server thread/WARN]: GOM moved too quickly! 4.316375473245927,8.625000342653706,-7.707727801467797
+[00:11:13] [Server thread/WARN]: GOM moved too quickly! -26.434826032373053,-1.6437772821007428,25.472160611231118
+[00:11:15] [Server thread/WARN]: GOM moved too quickly! 21.299092290027545,17.305990464415842,27.419300548721594
+[00:11:23] [Server thread/WARN]: GOM moved too quickly! -30.221288261678836,-14.371926989245779,-12.542874757634365
+[00:11:25] [Server thread/WARN]: GOM moved too quickly! 36.28601054034763,12.430354525061034,-6.525480607014799
+[00:11:28] [Server thread/WARN]: GOM moved too quickly! 22.275600515671385,22.698718183442878,-22.705044769083997
+[00:11:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28790ms or 575 ticks behind
+[00:11:35] [Server thread/WARN]: GOM moved too quickly! -16.333154511321823,-15.583341281856335,-25.956009373072106
+[00:11:40] [Server thread/WARN]: GOM moved too quickly! 40.92814633889597,-4.284797996276367,15.60443780189911
+[00:11:45] [Server thread/WARN]: GOM moved too quickly! 19.19002776240928,-3.917093384146284,9.457552503667387
+[00:11:49] [Server thread/WARN]: GOM moved too quickly! 11.362539288730307,8.984420384834252,5.39176827100448
+[00:11:54] [Server thread/WARN]: GOM moved too quickly! 3.7649055302098873,8.662501943420608,4.074789074592786
+[00:11:57] [Server thread/WARN]: GOM moved too quickly! 11.276346676232226,0.0,-1.2856894470440352
+[00:11:59] [Server thread/WARN]: GOM moved too quickly! -9.327049004388329,0.0,-4.55501956987473
+[00:12:02] [Server thread/WARN]: GOM moved too quickly! -11.151717626016016,0.0,4.564775910080527
+[00:12:04] [Server thread/WARN]: GOM moved too quickly! -3.4220705968571608,0.0,11.852802788982842
+[00:12:07] [Server thread/WARN]: GOM moved too quickly! 8.9981144641085,0.0,-8.101531519928471
+[00:12:09] [Server thread/WARN]: GOM moved too quickly! 1.4010204257628764,0.0,-10.871950442049695
+[00:12:09] [Server thread/WARN]: GOM moved too quickly! 1.1598313436018337,0.0,-10.450568347951787
+[00:12:14] [Server thread/WARN]: Cheza moved too quickly! -9.177190937600699,4.005079919600561,-1.2304279916762653
+[00:12:14] [Server thread/WARN]: GOM moved too quickly! 12.39731796973092,0.0,1.2473234098192734
+[00:12:19] [Server thread/WARN]: GOM moved too quickly! 16.415196872314084,-3.7742711450378437,-28.193875374039067
+[00:12:21] [Server thread/WARN]: GOM moved too quickly! 1.3048722471317546,0.0,-10.119846727480365
+[00:12:23] [Server thread/WARN]: GOM moved too quickly! 9.381465105413099,3.0603656940933632,2.0979461081522004
+[00:12:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29176ms or 583 ticks behind
+[00:12:47] [Server thread/WARN]: Dargaron moved too quickly! -0.23301333939612334,-7.713346453700126,-6.533525877787383
+[00:12:52] [Server thread/WARN]: Dargaron moved too quickly! -4.5672592538793,-2.6863675774491185,-18.850071699608748
+[00:13:15] [Server thread/INFO]: GOM issued server command: /kick Dargaron
+[00:13:15] [Server thread/INFO]: Dargaron lost connection: Kicked by an operator
+[00:13:15] [Server thread/INFO]: Dargaron left the game
+[00:13:15] [Server thread/INFO]: [GOM: Kicked Dargaron: Kicked by an operator]
+[00:13:22] [Server thread/INFO]: Slim lost connection: Disconnected
+[00:13:22] [Server thread/INFO]: Slim left the game
+[00:13:24] [User Authenticator #97/INFO]: UUID of player Slim is 3e6bd895-9b58-341e-9ad3-2ff57c59e281
+[00:13:24] [User Authenticator #98/INFO]: UUID of player Dargaron is b72539c4-e3dd-30dd-bb44-becd8a45e4bd
+[00:13:25] [Server thread/INFO]: Slim[/170.247.55.131:19111] logged in with entity id 292565 at ([world_the_end]308.9475478278847, 49.0, 7.6846211794896515)
+[00:13:25] [Server thread/INFO]: Dargaron[/170.247.53.72:47771] logged in with entity id 292566 at ([world]-112.22195056722566, 137.0806889058436, -343.08123476409787)
+[00:13:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25766ms or 515 ticks behind
+[00:14:12] [Server thread/INFO]: GOM issued server command: /teleport Gayba1 Gayba1
+[00:14:12] [Server thread/INFO]: [GOM: Teleported Gayba1 to Gayba1]
+[00:14:15] [Server thread/INFO]: GOM issued server command: /teleport Gayba1 GOM
+[00:14:15] [Server thread/INFO]: [GOM: Teleported Gayba1 to GOM]
+[00:14:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32575ms or 651 ticks behind
+[00:14:53] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:14:53] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:15:04] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:15:04] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:15:08] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:15:08] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:15:11] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:15:11] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:15:15] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:15:15] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:15:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20259ms or 405 ticks behind
+[00:15:19] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:15:19] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:15:27] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:15:27] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:15:27] [Server thread/WARN]: Cheza moved too quickly! 8.92211749195144,0.0,-4.781707930770031
+[00:15:28] [Server thread/WARN]: Dargaron moved too quickly! -16.32542521710016,-0.30322512916231403,-6.861680523204029
+[00:15:28] [Server thread/WARN]: Gayba1 moved too quickly! -16.883351835533063,0.0,22.979727721141728
+[00:15:32] [Server thread/INFO]: Slim lost connection: Disconnected
+[00:15:32] [Server thread/INFO]: Slim left the game
+[00:15:34] [Server thread/INFO]: Cheza lost connection: Disconnected
+[00:15:34] [Server thread/INFO]: Cheza left the game
+[00:15:46] [Server thread/INFO]: GOM issued server command: /give Gayba1 minecraft:glass 64
+[00:15:47] [Server thread/INFO]: [GOM: Gave 64 [Glass] to Gayba1]
+[00:15:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6908ms or 138 ticks behind
+[00:15:57] [Server thread/WARN]: GOM moved too quickly! -0.6859464253956133,27.507634339018097,16.86004055020169
+[00:16:00] [Server thread/WARN]: GOM moved too quickly! -8.587505014440282,12.030969583155255,35.99283465975009
+[00:16:02] [Server thread/WARN]: GOM moved too quickly! -16.674670991059486,-0.44892173098705257,8.468539364172273
+[00:16:05] [Server thread/WARN]: GOM moved too quickly! -25.951207559623356,-4.342864576550468,31.09825249571088
+[00:16:08] [Server thread/WARN]: GOM moved too quickly! -26.685445592490595,-3.4756948723067325,25.476330242347757
+[00:16:39] [Server thread/INFO]: [@: Set the weather to clear]
+[00:17:59] [Server thread/INFO]: GOM issued server command: /time set day
+[00:17:59] [Server thread/INFO]: [GOM: Set the time to 1000]
+[00:20:29] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:20:29] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:20:48] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[00:20:48] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:21:42] [Server thread/INFO]: [@: Set the weather to clear]
+[00:21:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5312ms or 106 ticks behind
+[00:22:48] [Server thread/INFO]: GOM issued server command: /teleport GOM -5000 ~ -15000
+[00:22:48] [Server thread/WARN]: Entity EntityPlayer['GOM'/269027, l='ServerLevel[world]', x=-4999.50, y=91.90, z=-14999.50](GOM at -4999.5,91.90450345737584,-14999.5) left loaded chunk area
+[00:22:48] [Server thread/INFO]: [GOM: Teleported GOM to -4999.5, 91.90450345737584, -14999.5]
+[00:23:08] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:100}
+[00:23:08] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:23:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 52074ms or 1041 ticks behind
+[00:24:08] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=-4896, y=75, z=-14953}
+[00:24:17] [Server thread/INFO]: Dargaron lost connection: Disconnected
+[00:24:17] [Server thread/INFO]: Dargaron left the game
+[00:24:29] [Server thread/WARN]: GOM moved too quickly! 0.0,10.125000402331352,0.0
+[00:24:34] [Server thread/WARN]: GOM moved too quickly! 0.0,10.125000402330414,0.0
+[00:24:40] [Server thread/WARN]: GOM moved too quickly! 0.0,-56.587102061211965,0.0
+[00:24:42] [Server thread/WARN]: GOM moved too quickly! 0.14571131627235445,-24.092025642356774,-0.9525529928123433
+[00:24:47] [Server thread/WARN]: GOM moved too quickly! 7.984414314028982,9.000000357584398,6.501946976075487
+[00:25:00] [Server thread/INFO]: GOM issued server command: /teleport GOM Gayba1
+[00:25:00] [Server thread/INFO]: [GOM: Teleported GOM to Gayba1]
+[00:25:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 91862ms or 1837 ticks behind
+[00:27:02] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1s}
+[00:27:02] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:27:29] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1s}
+[00:27:29] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:28:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[00:28:15] [Server thread/INFO]: GOM issued server command: /give Gayba1 minecraft:glass 64
+[00:28:15] [Server thread/INFO]: [GOM: Gave 64 [Glass] to Gayba1]
+[00:29:02] [Server thread/INFO]: GOM issued server command: /give Gayba1 minecraft:glass 64
+[00:29:02] [Server thread/INFO]: [GOM: Gave 64 [Glass] to Gayba1]
+[00:29:04] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1s}
+[00:29:04] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:29:12] [Server thread/WARN]: GOM moved too quickly! -3.412578888896668,-16.22928496114602,1.7410545814117313
+[00:29:14] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1}
+[00:29:14] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:29:17] [Server thread/INFO]: [@: Set the weather to clear]
+[00:29:19] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1}
+[00:29:19] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:29:23] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1}
+[00:29:23] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[00:29:46] [Server thread/INFO]: [@: Set the weather to clear]
+[00:30:17] [Server thread/INFO]: GOM issued server command: /summon minecraft:giant
+[00:30:17] [Server thread/INFO]: [GOM: Summoned new Giant]
+[00:31:00] [Server thread/INFO]: GOM issued server command: /time set day
+[00:31:00] [Server thread/INFO]: [GOM: Set the time to 1000]
+[00:32:52] [Server thread/INFO]: GOM lost connection: Disconnected
+[00:32:52] [Server thread/INFO]: GOM left the game
+[00:34:48] [Server thread/INFO]: [@: Set the weather to clear]
+[00:39:50] [Server thread/INFO]: [@: Set the weather to clear]
+[00:40:13] [Server thread/INFO]: [@: Set the weather to clear]
+[00:40:33] [Server thread/INFO]: Gayba1 lost connection: Disconnected
+[00:40:33] [Server thread/INFO]: Gayba1 left the game
+[00:56:21] [User Authenticator #99/INFO]: UUID of player Slim is 3e6bd895-9b58-341e-9ad3-2ff57c59e281
+[00:56:21] [Server thread/INFO]: Slim[/170.247.55.131:17790] logged in with entity id 298819 at ([world_the_end]305.9457959877696, 49.0, 6.099059572287327)
+[01:00:44] [Server thread/INFO]: [@: Set the time to 1000]
+[01:00:44] [Server thread/INFO]: [@: Set the weather to clear]
+[01:04:28] [Server thread/INFO]: [@: Set the time to 1000]
+[01:04:28] [Server thread/INFO]: [@: Set the weather to clear]
+[01:06:25] [Server thread/INFO]: Slim issued server command: /gamemode c
+[01:06:28] [Server thread/INFO]: Slim issued server command: /gamemode creative
+[01:06:28] [Server thread/INFO]: [Slim: Set own game mode to Creative Mode]
+[01:06:36] [Server thread/INFO]: Slim issued server command: /gamemode s
+[01:06:39] [Server thread/INFO]: Slim issued server command: /gamemode survival
+[01:06:39] [Server thread/INFO]: [Slim: Set own game mode to Survival Mode]
+[01:06:42] [Server thread/INFO]: Slim issued server command: /gamemode creative
+[01:06:42] [Server thread/INFO]: [Slim: Set own game mode to Creative Mode]
+[01:08:02] [Server thread/WARN]: Slim moved too quickly! 1.9892901169706079,0.0,15.965550950770364
+[01:08:47] [Server thread/INFO]: Slim issued server command: /gamemode survival
+[01:08:47] [Server thread/INFO]: [Slim: Set own game mode to Survival Mode]
+[01:20:40] [Server thread/INFO]: Slim issued server command: /gamemode creative
+[01:20:40] [Server thread/INFO]: [Slim: Set own game mode to Creative Mode]
+[01:20:48] [Server thread/INFO]: Slim issued server command: /gamemode survival
+[01:20:48] [Server thread/INFO]: [Slim: Set own game mode to Survival Mode]
+[01:28:44] [Server thread/INFO]: Slim issued server command: /gamemode creative
+[01:28:44] [Server thread/INFO]: [Slim: Set own game mode to Creative Mode]
+[01:29:51] [Server thread/WARN]: Entity EntityPlayer['Slim'/298819, l='ServerLevel[world]', x=-240.50, y=67.00, z=-214.50](Slim at -240.5,67.0,-214.5) left loaded chunk area
+[01:29:51] [Server thread/INFO]: [@: Teleported Slim to -240.5, 67.0, -214.5]
+[01:30:08] [Server thread/INFO]: Slim issued server command: /gamemode survival
+[01:30:08] [Server thread/INFO]: [Slim: Set own game mode to Survival Mode]
+[01:31:11] [Server thread/INFO]: Slim issued server command: /gamemode creative
+[01:31:11] [Server thread/INFO]: [Slim: Set own game mode to Creative Mode]
+[01:31:20] [Server thread/INFO]: Slim issued server command: /gamemode survival
+[01:31:20] [Server thread/INFO]: [Slim: Set own game mode to Survival Mode]
+[01:33:38] [Server thread/INFO]: Slim issued server command: /gamemode creative
+[01:33:38] [Server thread/INFO]: [Slim: Set own game mode to Creative Mode]
+[01:33:41] [Server thread/INFO]: [@: Set the weather to clear]
+[01:36:44] [Server thread/INFO]: Slim issued server command: /gamemode survival
+[01:36:44] [Server thread/INFO]: [Slim: Set own game mode to Survival Mode]
+[01:36:57] [Server thread/INFO]: [@: Set the time to 1000]
+[01:36:57] [Server thread/INFO]: [@: Set the weather to clear]
+[01:38:45] [Server thread/INFO]: Slim issued server command: /gamemode creative
+[01:38:45] [Server thread/INFO]: [Slim: Set own game mode to Creative Mode]
+[01:39:32] [Server thread/INFO]: Slim issued server command: /gamemode survival
+[01:39:32] [Server thread/INFO]: [Slim: Set own game mode to Survival Mode]
+[01:41:59] [Server thread/INFO]: [@: Set the weather to clear]
+[01:43:09] [Server thread/INFO]: Slim has completed the challenge [Cover Me in Debris]
+[01:43:42] [Server thread/INFO]: Slim lost connection: Disconnected
+[01:43:42] [Server thread/INFO]: Slim left the game
+[05:33:55] [User Authenticator #100/INFO]: UUID of player Dargaron is b72539c4-e3dd-30dd-bb44-becd8a45e4bd
+[05:33:55] [Server thread/INFO]: Dargaron[/170.247.53.72:47980] logged in with entity id 315134 at ([world]-161.82855988724756, 122.0, -341.67071292259135)
+[05:33:56] [Server thread/INFO]: [@: Set the weather to clear]
+[05:40:11] [Server thread/INFO]: [@: Set the weather to clear]
+[05:40:22] [Server thread/INFO]: [@: Set the time to 1000]
+[05:40:22] [Server thread/INFO]: [@: Set the weather to clear]
+[05:45:24] [Server thread/INFO]: [@: Set the weather to clear]
+[05:49:35] [Server thread/INFO]: [@: Set the weather to clear]
+[05:53:25] [Server thread/INFO]: [@: Set the time to 1000]
+[05:53:25] [Server thread/INFO]: [@: Set the weather to clear]
+[05:58:36] [Server thread/INFO]: [@: Set the weather to clear]
+[05:58:45] [Server thread/INFO]: [@: Set the time to 1000]
+[05:58:45] [Server thread/INFO]: [@: Set the weather to clear]
+[05:59:14] [Server thread/INFO]: Dargaron lost connection: Disconnected
+[05:59:14] [Server thread/INFO]: Dargaron left the game
+[11:40:54] [User Authenticator #101/INFO]: UUID of player Junior is c8a287b9-d648-38f7-a4cc-185ac7bed33f
+[11:40:54] [Server thread/INFO]: Junior[/177.83.140.107:52988] logged in with entity id 319043 at ([world]-273.4380708984102, 64.0, -149.71647594597275)
+[11:47:57] [Server thread/INFO]: [@: Set the weather to clear]
+[11:52:59] [Server thread/INFO]: [@: Set the weather to clear]
+[12:03:14] [Server thread/INFO]: [@: Set the weather to clear]
+[12:08:15] [Server thread/INFO]: [@: Set the weather to clear]
+[12:09:34] [Server thread/INFO]: Junior tried to swim in lava
+[12:13:17] [Server thread/INFO]: [@: Set the weather to clear]
+[12:13:23] [Server thread/INFO]: [@: Set the weather to clear]
+[12:18:56] [Server thread/INFO]: Junior burned to death
+[12:29:08] [Server thread/INFO]: [@: Set the weather to clear]
+[12:33:54] [Server thread/INFO]: Junior has made the advancement [Cover Me With Diamonds]
+[12:34:10] [Server thread/INFO]: [@: Set the weather to clear]
+[12:39:12] [Server thread/INFO]: [@: Set the weather to clear]
+[12:43:28] [Server thread/INFO]: [@: Set the weather to clear]
+[13:18:51] [Server thread/INFO]: [@: Set the weather to clear]
+[13:23:53] [Server thread/INFO]: [@: Set the weather to clear]
+[13:28:55] [Server thread/INFO]: [@: Set the weather to clear]
+[13:31:56] [Server thread/INFO]: [@: Set the weather to clear]
+[13:42:19] [Server thread/INFO]: Junior fell from a high place
+[13:48:32] [Server thread/INFO]: [@: Set the weather to clear]
+[13:50:26] [Server thread/INFO]: Junior was slain by Hoglin
+[13:50:45] [Server thread/INFO]: Junior fell from a high place
+[13:52:37] [Server thread/INFO]: Junior fell from a high place
+[13:53:46] [Server thread/INFO]: [@: Set the weather to clear]
+[13:57:29] [Server thread/INFO]: Junior tried to swim in lava to escape Hoglin
+[13:58:48] [Server thread/INFO]: [@: Set the weather to clear]
+[14:00:38] [Server thread/INFO]: [@: Set the weather to clear]
+[14:05:40] [Server thread/INFO]: [@: Set the weather to clear]
+[14:20:14] [Server thread/INFO]: [@: Set the weather to clear]
+[14:26:49] [Server thread/INFO]: [@: Set the weather to clear]
+[14:33:34] [Server thread/INFO]: [@: Set the weather to clear]
+[14:38:36] [Server thread/INFO]: [@: Set the weather to clear]
+[14:43:38] [Server thread/INFO]: [@: Set the weather to clear]
+[14:43:44] [Server thread/INFO]: [@: Set the weather to clear]
+[14:44:29] [Server thread/WARN]: Junior moved too quickly! 309.4908992496523,-22.766367993957516,195.32394630139592
+[14:47:48] [Server thread/INFO]: Junior fell from a high place
+[14:50:26] [Server thread/INFO]: [@: Set the weather to clear]
+[14:55:28] [Server thread/INFO]: [@: Set the weather to clear]
+[14:58:01] [Server thread/INFO]: [@: Set the weather to clear]
+[15:03:02] [Server thread/INFO]: [@: Set the weather to clear]
+[15:08:04] [Server thread/INFO]: [@: Set the weather to clear]
+[15:10:56] [Server thread/INFO]: [@: Set the weather to clear]
+[15:26:53] [Server thread/INFO]: [@: Set the weather to clear]
+[15:45:48] [Server thread/INFO]: [@: Set the weather to clear]
+[16:00:58] [Server thread/INFO]: [@: Set the weather to clear]
+[16:14:22] [Server thread/INFO]: Junior lost connection: Disconnected
+[16:14:22] [Server thread/INFO]: Junior left the game
+[19:19:41] [User Authenticator #102/INFO]: UUID of player Dargaron is b72539c4-e3dd-30dd-bb44-becd8a45e4bd
+[19:19:42] [Server thread/INFO]: Dargaron[/170.247.53.72:47931] logged in with entity id 359122 at ([world]-254.19999998807907, 68.5, -209.57593179762193)
+[19:19:43] [Server thread/INFO]: [@: Set the weather to clear]
+[19:20:23] [Server thread/INFO]: [@: Set the time to 1000]
+[19:20:23] [Server thread/INFO]: [@: Set the weather to clear]
+[19:22:16] [Server thread/INFO]: [@: Set the time to 1000]
+[19:22:16] [Server thread/INFO]: [@: Set the weather to clear]
+[19:27:18] [Server thread/INFO]: [@: Set the weather to clear]
+[19:28:46] [Server thread/INFO]: Dargaron lost connection: Disconnected
+[19:28:46] [Server thread/INFO]: Dargaron left the game
+[20:44:31] [User Authenticator #103/INFO]: UUID of player Suushi is 33989304-e843-3900-980d-2803cf0259e7
+[20:44:31] [Server thread/INFO]: Suushi[/179.96.244.143:50906] logged in with entity id 361294 at ([world]-167.70098700327472, 107.0, -499.99634011526064)
+[20:44:51] [User Authenticator #104/INFO]: UUID of player GOM is 6e3c9853-b56a-351c-9278-86bca0480da4
+[20:44:51] [Server thread/INFO]: GOM[/187.183.39.232:9007] logged in with entity id 361529 at ([world]-219.03932735903885, 83.34085395853533, -190.28602371178124)
+[20:44:55] [Server thread/WARN]: GOM moved too quickly! -17.45821092009774,-2.8535803045108423,-0.18645196908170192
+[20:44:57] [Server thread/WARN]: GOM moved too quickly! -18.13930984909581,5.139911212631347,-9.564225257478142
+[20:45:00] [Server thread/WARN]: GOM moved too quickly! 7.168581476052509,8.85328384956486,-23.120233490845152
+[20:45:11] [Server thread/INFO]: GOM issued server command: /gamemode spectator
+[20:45:11] [Server thread/INFO]: [GOM: Set own game mode to Spectator Mode]
+[20:45:15] [Server thread/INFO]: GOM issued server command: /teleport GOM Suushi
+[20:45:15] [Server thread/INFO]: [GOM: Teleported GOM to Suushi]
+[20:47:56] [Server thread/INFO]: GOM issued server command: /gamemode survival
+[20:47:56] [Server thread/INFO]: [GOM: Set own game mode to Survival Mode]
+[20:48:09] [Server thread/INFO]: GOM issued server command: /gamemode spectator
+[20:48:09] [Server thread/INFO]: [GOM: Set own game mode to Spectator Mode]
+[20:48:18] [Server thread/WARN]: GOM moved too quickly! 0.42479952399289544,-5.2600763062641,-9.244571637940794
+[20:48:30] [Server thread/WARN]: GOM moved too quickly! 2.547238162271956,-0.39000001549720764,9.72472724679892
+[20:48:38] [Server thread/INFO]: GOM issued server command: /gamemode survival
+[20:48:38] [Server thread/INFO]: [GOM: Set own game mode to Survival Mode]
+[20:48:59] [Server thread/INFO]: GOM issued server command: /gamemode spectator
+[20:48:59] [Server thread/INFO]: [GOM: Set own game mode to Spectator Mode]
+[20:50:27] [Server thread/INFO]: Suushi lost connection: Disconnected
+[20:50:27] [Server thread/INFO]: Suushi left the game
+[20:51:12] [Server thread/INFO]: GOM issued server command: /gamemode survival
+[20:51:12] [Server thread/INFO]: [GOM: Set own game mode to Survival Mode]
+[20:51:15] [User Authenticator #105/INFO]: UUID of player Matherook is f81ad634-c34e-38d0-9c0c-b026664c6904
+[20:51:15] [Server thread/INFO]: Matherook[/179.96.244.143:50863] logged in with entity id 363719 at ([world]-242.08906807523903, 128.81153516084208, -477.8939691799697)
+[20:51:29] [Server thread/INFO]: [@: Set the weather to clear]
+[20:51:35] [Server thread/INFO]: GOM issued server command: /gamemode spectator
+[20:51:35] [Server thread/INFO]: [GOM: Set own game mode to Spectator Mode]
+[20:51:42] [Server thread/INFO]: Matherook issued server command: /gamemode creative
+[20:51:42] [Server thread/INFO]: [Matherook: Set own game mode to Creative Mode]
+[20:52:47] [Server thread/INFO]: Matherook issued server command: /time set day
+[20:52:47] [Server thread/INFO]: [Matherook: Set the time to 1000]
+[20:53:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
+[20:53:14] [Server thread/INFO]: GOM issued server command: /teleport GOM Matherook
+[20:53:14] [Server thread/INFO]: [GOM: Teleported GOM to Matherook]
+[20:53:48] [Server thread/INFO]: GOM issued server command: /kill @e[type=minecraft:creeper]
+[20:53:48] [Server thread/INFO]: [GOM: Killed 27 entities]
+[20:54:01] [Server thread/WARN]: GOM moved too quickly! 13.174599414711338,-8.619236471557699,4.605742303350212
+[20:55:10] [Server thread/INFO]: GOM issued server command: /locatebiome minecraft:the_void
+[20:55:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8066ms or 161 ticks behind
+[20:56:21] [Server thread/INFO]: GOM issued server command: /locatebiome minecraft:eroded_badlands
+[20:56:28] [Server thread/INFO]: GOM issued server command: /teleport GOM 944 ~ -2072
+[20:56:28] [Server thread/WARN]: Entity EntityPlayer['GOM'/361529, l='ServerLevel[world]', x=944.50, y=98.60, z=-2071.50](GOM at 944.5,98.59967241066052,-2071.5) left loaded chunk area
+[20:56:29] [Server thread/INFO]: [GOM: Teleported GOM to 944.5, 98.59967241066052, -2071.5]
+[20:56:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5589ms or 111 ticks behind
+[20:56:39] [Server thread/INFO]: Matherook issued server command: /teleport matherook gom
+[20:56:39] [Server thread/INFO]: [Matherook: Teleported Matherook to GOM]
+[20:56:39] [Server thread/WARN]: GOM moved too quickly! -2.428831597713838,-3.9387245965748434,10.980622344038693
+[20:56:41] [Server thread/WARN]: Matherook moved too quickly! 0.0,-16.38616142037597,0.0
+[20:56:41] [Server thread/WARN]: Matherook moved too quickly! 0.0,-16.460201039326762,0.0
+[20:56:43] [Server thread/WARN]: GOM moved too quickly! 2.8427644240085783,-8.624966066510666,-10.626929435716193
+[20:56:43] [Server thread/WARN]: GOM moved too quickly! 2.5420578016930904,-8.249966051789968,-10.214677439736079
+[20:56:45] [Server thread/WARN]: GOM moved too quickly! 2.3450326165306024,-8.2342656689638,-10.552857430845961
+[20:56:45] [Server thread/WARN]: GOM moved too quickly! 2.357088967652885,-8.099265667467293,-10.038410877680235
+[20:56:47] [Server thread/WARN]: GOM moved too quickly! -3.331880572184332,0.0,-10.742195486849141
+[20:56:47] [Server thread/WARN]: GOM moved too quickly! -3.172262741265513,0.0,-10.23254115177724
+[20:56:49] [Server thread/WARN]: GOM moved too quickly! -3.5932215121289346,-7.914756521760943,-11.143906403242454
+[20:56:49] [Server thread/WARN]: GOM moved too quickly! -3.4223373759955393,-7.833756656713497,-10.637956252327967
+[20:56:52] [Server thread/WARN]: GOM moved too quickly! -4.08574446504349,-8.621599147052024,-11.347602116244161
+[20:56:52] [Server thread/WARN]: GOM moved too quickly! -3.9027727337056604,-8.246599150057854,-10.841080896687345
+[20:56:52] [Server thread/WARN]: GOM moved too quickly! -3.9027727337056604,-8.246599150057854,-10.841080896687345
+[20:57:01] [Server thread/INFO]: GOM issued server command: /locatebiome minecraft:basalt_deltas
+[20:57:08] [Server thread/WARN]: Matherook moved too quickly! -38.18923652669582,0.0,31.529073451658633
+[20:57:19] [Server thread/INFO]: GOM issued server command: /locatebiome minecraft:giant_tree_taiga_hills
+[20:57:23] [Server thread/WARN]: GOM moved too quickly! -1.9136083175889098,-3.9387245965748434,-9.186483841000154
+[20:57:31] [Server thread/INFO]: GOM issued server command: /teleport GOM 5484 ~ 1276
+[20:57:31] [Server thread/WARN]: Entity EntityPlayer['GOM'/361529, l='ServerLevel[world]', x=5484.50, y=41.76, z=1276.50](GOM at 5484.5,41.760818487459524,1276.5) left loaded chunk area
+[20:57:31] [Server thread/INFO]: [GOM: Teleported GOM to 5484.5, 41.760818487459524, 1276.5]
+[20:57:35] [Server thread/INFO]: Matherook issued server command: /teleport matherook gom
+[20:57:35] [Server thread/INFO]: [Matherook: Teleported Matherook to GOM]
+[20:57:42] [Server thread/INFO]: Matherook issued server command: /teleport matherook gom
+[20:57:42] [Server thread/INFO]: [Matherook: Teleported Matherook to GOM]
+[20:58:01] [Server thread/INFO]: GOM lost connection: Disconnected
+[20:58:01] [Server thread/INFO]: GOM left the game
+[20:58:22] [Server thread/WARN]: Matherook moved too quickly! 2.5683362079189465,15.187500603767731,-17.40020856412457
+[20:58:25] [Server thread/WARN]: Matherook moved too quickly! 10.493150874645835,8.249992924201862,-4.3795192407299055
+[20:58:27] [Server thread/WARN]: Matherook moved too quickly! 9.643764734307297,8.624999767017911,-6.148614813179165
+[20:58:32] [Server thread/WARN]: Matherook moved too quickly! 7.075820103751539,7.860000312328339,-3.5694610707655556
+[20:58:36] [Server thread/INFO]: Matherook issued server command: /time set day
+[20:58:36] [Server thread/INFO]: [Matherook: Set the time to 1000]
+[20:58:41] [Server thread/INFO]: Matherook issued server command: /weather clear
+[20:58:41] [Server thread/INFO]: [Matherook: Set the weather to clear]
+[21:00:20] [User Authenticator #106/INFO]: UUID of player GOM is 6e3c9853-b56a-351c-9278-86bca0480da4
+[21:00:21] [Server thread/INFO]: GOM[/187.183.39.232:9095] logged in with entity id 366541 at ([world]5484.5, 218.74382055955854, 1276.5)
+[21:00:44] [Server thread/INFO]: GOM issued server command: /locatebiome minecraft:modified_gravelly_mountains
+[21:00:45] [User Authenticator #107/INFO]: UUID of player Suushi is 33989304-e843-3900-980d-2803cf0259e7
+[21:00:47] [Server thread/INFO]: Suushi[/179.96.244.143:49885] logged in with entity id 366640 at ([world]-297.93784243034054, 63.0, -224.67857112302556)
+[21:00:47] [Server thread/WARN]: GOM moved too quickly! 8.554131614507241,-4.312660948428288,3.1751066086962965
+[21:00:50] [Server thread/INFO]: Matherook issued server command: /teleport matherook suushi
+[21:00:50] [Server thread/INFO]: [Matherook: Teleported Matherook to Suushi]
+[21:00:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5918ms or 118 ticks behind
+[21:00:55] [Async Chat Thread - #20/INFO]: <GOM> KKKKKKKKKKKKKKKKKKKKKKKKKKK
+[21:00:58] [Server thread/INFO]: Suushi lost connection: Disconnected
+[21:00:58] [Server thread/INFO]: Suushi left the game
+[21:01:06] [Async Chat Thread - #20/INFO]: <Matherook> ?
+[21:01:09] [Async Chat Thread - #20/INFO]: <GOM> nego se perde
+[21:01:15] [Async Chat Thread - #20/INFO]: <Matherook> sim
+[21:01:39] [Server thread/INFO]: GOM issued server command: /teleport GOM 9324 ~ 2748
+[21:01:39] [Server thread/WARN]: Entity EntityPlayer['GOM'/366541, l='ServerLevel[world]', x=9324.50, y=143.57, z=2748.50](GOM at 9324.5,143.56732989107348,2748.5) left loaded chunk area
+[21:01:39] [Server thread/INFO]: [GOM: Teleported GOM to 9324.5, 143.56732989107348, 2748.5]
+[21:01:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[21:02:00] [Server thread/INFO]: GOM issued server command: /gamemode creative
+[21:02:00] [Server thread/INFO]: [GOM: Set own game mode to Creative Mode]
+[21:02:24] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1}
+[21:02:24] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:02:29] [Async Chat Thread - #21/INFO]: <Matherook> ah mano
+[21:02:31] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:50}
+[21:02:31] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:02:36] [Server thread/WARN]: GOM moved too quickly! -16.453134935061826,0.0,-4.864589800920385
+[21:02:38] [Server thread/WARN]: Matherook moved too quickly! -1.1744128529885813,8.242430967345825,-6.2061329041514455
+[21:02:41] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1}
+[21:02:41] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:02:41] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1}
+[21:02:41] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:02:42] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1}
+[21:02:42] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:02:42] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1}
+[21:02:42] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:02:43] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1}
+[21:02:43] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:02:43] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1}
+[21:02:43] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:02:43] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1}
+[21:02:43] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:02:44] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1}
+[21:02:44] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:02:44] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1}
+[21:02:44] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:02:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16574ms or 331 ticks behind
+[21:02:46] [Async Chat Thread - #21/INFO]: <Matherook> vc n vai parar com essa merda mano?
+[21:02:57] [Server thread/WARN]: Matherook moved too quickly! 3.3874818640657622,6.7499993087960775,-8.79675124771785
+[21:02:59] [Server thread/WARN]: Matherook moved too quickly! 2.258621771013992,7.356231720688314,-11.619688015394104
+[21:03:02] [Server thread/WARN]: Matherook moved too quickly! 8.919613167812969,8.999988018151186,-4.96211253306069
+[21:03:02] [Server thread/WARN]: GOM moved too quickly! -43.4993351603498,0.10021173531224292,7.997913545772008
+[21:03:03] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:1}
+[21:03:03] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:03:04] [Server thread/WARN]: Matherook moved too quickly! 10.716657111933216,4.306827025176176,-5.10288421916232
+[21:03:12] [Async Chat Thread - #21/INFO]: <Matherook> entrei pra tentar arrumas as bosta mas desanimei
+[21:03:13] [Server thread/WARN]: GOM moved too quickly! 13.758723761939109,3.4032989341672817,-0.778389340751346
+[21:03:16] [Server thread/WARN]: GOM moved too quickly! 24.381343631082927,8.5553244931168,22.40622357514394
+[21:03:18] [Server thread/WARN]: GOM moved too quickly! 9.177982493032687,-1.0707933976540005,33.32650177155983
+[21:03:26] [Async Chat Thread - #21/INFO]: <GOM> mano
+[21:03:30] [Async Chat Thread - #21/INFO]: <GOM> to a 10000 bloco de distancia
+[21:03:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17361ms or 347 ticks behind
+[21:03:35] [Async Chat Thread - #21/INFO]: <Matherook> foda-se mano
+[21:03:39] [Async Chat Thread - #21/INFO]: <Matherook> e a que vc tacou aqui do lado?
+[21:03:42] [Server thread/WARN]: Matherook moved too quickly! -6.342826014199034,0.0,7.8887877185360935
+[21:03:44] [Async Chat Thread - #21/INFO]: <Matherook> as varias né
+[21:03:50] [Async Chat Thread - #21/INFO]: <GOM> se acha que explodir a 10000 bloco de distancia faz alguma diferença?
+[21:04:01] [Async Chat Thread - #21/INFO]: <Matherook> e as que varias que vc tacou aqui do lado?
+[21:04:08] [Async Chat Thread - #21/INFO]: <Matherook> pq vc não faz um server proprio no criativo e explode la?
+[21:04:11] [Async Chat Thread - #21/INFO]: <GOM> sem efeito nenhum?
+[21:04:18] [Async Chat Thread - #21/INFO]: <Matherook> vc arregaçou com o terreno todo
+[21:04:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28158ms or 563 ticks behind
+[21:04:37] [Async Chat Thread - #21/INFO]: <GOM> não
+[21:04:37] [Async Chat Thread - #21/INFO]: <Matherook> a graça pra vc é ver a gente puto pq se fosse tacar bola de fogo vc tacava em outro server
+[21:04:38] [Async Chat Thread - #21/INFO]: <Matherook> wtf
+[21:04:49] [Async Chat Thread - #21/INFO]: <GOM> a graça é explodir
+[21:04:55] [Async Chat Thread - #21/INFO]: <Matherook> a gente perde tempo aqui pra deixar os bang bonito
+[21:05:05] [Async Chat Thread - #21/INFO]: <GOM> e onde que eu explodi que ficou feio?
+[21:05:05] [Async Chat Thread - #22/INFO]: <Matherook> vc perde tempo pra estragar td
+[21:05:12] [Async Chat Thread - #22/INFO]: <Matherook> do lado da casa do matheus/leo
+[21:05:14] [Async Chat Thread - #22/INFO]: <GOM> não to estragando nada que vcs construiram
+[21:05:17] [Async Chat Thread - #22/INFO]: <Matherook> ali onde tinha o centro pokemon do lado
+[21:05:18] [Server thread/INFO]: [@: Set the weather to clear]
+[21:05:20] [Async Chat Thread - #22/INFO]: <Matherook> onde eu Já arrumei
+[21:05:26] [Async Chat Thread - #22/INFO]: <GOM> aquilo lá era old
+[21:05:29] [Async Chat Thread - #22/INFO]: <Matherook> whatever
+[21:05:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28535ms or 570 ticks behind
+[21:05:32] [Server thread/WARN]: Matherook moved too quickly! -6.855705650243067,7.49297570941205,-1.9679873071658562
+[21:05:35] [Server thread/WARN]: Matherook moved too quickly! 9.511959813026351,0.0,6.9692291212539885
+[21:05:45] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[21:05:45] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:05:47] [Async Chat Thread - #22/INFO]: <Matherook> daqui um tempo as coisas de agora vão ser old tbm
+[21:05:51] [Async Chat Thread - #22/INFO]: <Matherook> o problema que da trabalho arrumar
+[21:06:01] [Async Chat Thread - #22/INFO]: <GOM> mas não precisa arrumar uma coisa que nem dá pra ver
+[21:06:07] [Async Chat Thread - #22/INFO]: <Matherook> vc podia ser divertir de outra forma que não é acabar com a nossa diversão
+[21:06:22] [Server thread/INFO]: Matherook issued server command: /gamemode survival
+[21:06:22] [Server thread/INFO]: [Matherook: Set own game mode to Survival Mode]
+[21:06:25] [Async Chat Thread - #22/INFO]: <GOM> eu não entendo por que ficar puto com uma coisa que não ta afetando ninguem
+[21:06:27] [Server thread/INFO]: Matherook lost connection: Disconnected
+[21:06:28] [Server thread/INFO]: Matherook left the game
+[21:06:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28127ms or 562 ticks behind
+[21:06:30] [Server thread/WARN]: GOM moved too quickly! 13.288301503902403,8.919499132023418,5.345578201134231
+[21:06:31] [Server thread/WARN]: GOM moved too quickly! 17.400846769407508,-7.771724991814509,31.807245415338002
+[21:06:34] [Server thread/WARN]: GOM moved too quickly! 17.90807899442916,6.370713797542237,14.434008929650645
+[21:06:36] [Server thread/WARN]: GOM moved too quickly! 13.570836619188412,3.1027990008511352,24.342749739784267
+[21:06:39] [Server thread/WARN]: GOM moved too quickly! 16.874546418654063,9.078844251852217,14.42131848502595
+[21:06:41] [Server thread/WARN]: GOM moved too quickly! -7.039714041588013,-8.28664155064152,44.25665097842375
+[21:06:44] [Server thread/WARN]: GOM moved too quickly! -38.302991161541286,-3.7041257347860608,-1.4596616403068765
+[21:07:28] [Server thread/INFO]: GOM issued server command: /locatebiome minecraft:sunflower_plains
+[21:07:36] [Server thread/INFO]: GOM issued server command: /teleport GOM 9204 ~ 2520
+[21:07:36] [Server thread/WARN]: Entity EntityPlayer['GOM'/366541, l='ServerLevel[world]', x=9204.50, y=93.41, z=2520.50](GOM at 9204.5,93.40760396124287,2520.5) left loaded chunk area
+[21:07:36] [Server thread/INFO]: [GOM: Teleported GOM to 9204.5, 93.40760396124287, 2520.5]
+[21:08:04] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:100}
+[21:08:04] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:08:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15762ms or 315 ticks behind
+[21:09:49] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:100}
+[21:09:49] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:10:03] [Server thread/WARN]: GOM moved too quickly! -6.357601098221494,0.0,-7.872423414872628
+[21:10:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8417ms or 168 ticks behind
+[21:10:06] [Server thread/WARN]: GOM moved too quickly! -15.270122283171077,-16.527200747988516,-10.356507221149059
+[21:10:08] [Server thread/WARN]: GOM moved too quickly! 0.8035732932639803,-7.231423965202239,-16.538996076109925
+[21:10:12] [Server thread/INFO]: GOM issued server command: /teleport -200 ~ -200
+[21:10:12] [Server thread/WARN]: Entity EntityPlayer['GOM'/366541, l='ServerLevel[world]', x=-199.50, y=68.00, z=-199.50](GOM at -199.5,68.0,-199.5) left loaded chunk area
+[21:10:12] [Server thread/INFO]: [GOM: Teleported GOM to -199.5, 68.0, -199.5]
+[21:10:19] [Server thread/INFO]: GOM issued server command: /gamemode spectator
+[21:10:19] [Server thread/INFO]: [GOM: Set own game mode to Spectator Mode]
+[21:10:28] [Server thread/INFO]: [@: Set the weather to clear]
+[21:10:30] [Server thread/INFO]: GOM issued server command: /gamemode survival
+[21:10:30] [Server thread/INFO]: [GOM: Set own game mode to Survival Mode]
+[21:11:29] [Server thread/INFO]: [@: Set the time to 1000]
+[21:11:29] [Server thread/INFO]: [@: Set the weather to clear]
+[21:14:31] [Server thread/INFO]: GOM issued server command: /give GOM minecraft:ender_chest
+[21:14:31] [Server thread/INFO]: [GOM: Gave 1 [Ender Chest] to GOM]
+[21:15:11] [Server thread/INFO]: GOM issued server command: /gamemode creative
+[21:15:11] [Server thread/INFO]: [GOM: Set own game mode to Creative Mode]
+[21:16:54] [User Authenticator #108/INFO]: UUID of player Dargaron is b72539c4-e3dd-30dd-bb44-becd8a45e4bd
+[21:16:56] [Server thread/INFO]: Dargaron[/170.247.53.72:47972] logged in with entity id 372853 at ([world]-98.13462531538752, 143.5625, -336.6582637038235)
+[21:17:22] [Async Chat Thread - #23/INFO]: <Dargaron> eae gom
+[21:17:26] [Async Chat Thread - #23/INFO]: <GOM> aoba
+[21:17:55] [Server thread/INFO]: [@: Set the weather to clear]
+[21:20:33] [Server thread/INFO]: GOM issued server command: /teleport GOM Dargaron
+[21:20:33] [Server thread/INFO]: [GOM: Teleported GOM to Dargaron]
+[21:20:41] [Server thread/INFO]: [@: Set the weather to clear]
+[21:20:47] [Server thread/INFO]: GOM issued server command: /kill @e[type=minecraft:iron_golem]
+[21:20:47] [Server thread/INFO]: [GOM: Killed 14 entities]
+[21:21:50] [User Authenticator #109/INFO]: UUID of player Slim is 3e6bd895-9b58-341e-9ad3-2ff57c59e281
+[21:21:50] [Server thread/INFO]: Slim[/170.247.55.131:17884] logged in with entity id 374470 at ([world]-234.90930263388344, 67.0, -225.79976663593922)
+[21:22:40] [Server thread/INFO]: [@: Set the time to 1000]
+[21:22:40] [Server thread/INFO]: [@: Set the weather to clear]
+[21:23:40] [Server thread/WARN]: GOM moved too quickly! -16.933475620117235,-26.235325050530463,13.662041854650965
+[21:23:43] [Server thread/WARN]: GOM moved too quickly! -10.48820463207295,-5.295462143874332,-13.475546217155483
+[21:24:48] [Server thread/INFO]: GOM issued server command: /kill @e[type=minecraft:creeper]
+[21:24:48] [Server thread/INFO]: [GOM: Killed 27 entities]
+[21:26:05] [Server thread/WARN]: GOM moved too quickly! 24.85133827071661,-1.655411795784417,-22.547185295518545
+[21:27:42] [Server thread/INFO]: [@: Set the weather to clear]
+[21:31:03] [Server thread/INFO]: [@: Set the time to 1000]
+[21:31:03] [Server thread/INFO]: [@: Set the weather to clear]
+[21:31:13] [Server thread/INFO]: [@: Set the time to 1000]
+[21:31:13] [Server thread/INFO]: [@: Set the weather to clear]
+[21:36:15] [Server thread/INFO]: [@: Set the weather to clear]
+[21:39:40] [Server thread/INFO]: Slim lost connection: Disconnected
+[21:39:40] [Server thread/INFO]: Slim left the game
+[21:40:26] [Server thread/INFO]: [@: Set the weather to clear]
+[21:42:15] [Server thread/INFO]: Dargaron lost connection: Disconnected
+[21:42:15] [Server thread/INFO]: Dargaron left the game
+[21:46:12] [Server thread/WARN]: GOM moved too quickly! -27.812743855891114,-4.810327232845495,12.313162089879796
+[21:46:30] [Server thread/INFO]: [@: Set the time to 1000]
+[21:46:30] [Server thread/INFO]: [@: Set the weather to clear]
+[21:51:32] [Server thread/INFO]: [@: Set the weather to clear]
+[21:52:21] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[21:52:21] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:52:25] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[21:52:25] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:52:29] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[21:52:29] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:52:34] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[21:52:34] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:52:36] [Server thread/INFO]: GOM issued server command: /summon minecraft:fireball ~ ~1 ~ {direction:[-1.0,0.0,0.0],ExplosionPower:10}
+[21:52:36] [Server thread/INFO]: [GOM: Summoned new Fireball]
+[21:55:43] [Server thread/INFO]: [@: Set the weather to clear]
+[22:07:56] [Server thread/INFO]: [@: Set the time to 1000]
+[22:07:56] [Server thread/INFO]: [@: Set the weather to clear]
+[22:12:58] [Server thread/INFO]: [@: Set the weather to clear]
+[22:20:16] [Server thread/INFO]: [@: Set the weather to clear]
+[22:37:08] [Server thread/INFO]: [@: Set the weather to clear]
+[22:57:08] [Server thread/INFO]: [@: Set the weather to clear]
+[23:17:08] [Server thread/INFO]: [@: Set the weather to clear]
+[23:21:09] [User Authenticator #110/INFO]: UUID of player Suushi is 33989304-e843-3900-980d-2803cf0259e7
+[23:21:09] [Server thread/INFO]: Suushi[/179.96.244.143:51084] logged in with entity id 393818 at ([world]-297.93784243034054, 63.0, -224.67857112302556)
+[23:21:34] [Server thread/INFO]: Suushi lost connection: Timed out
+[23:21:34] [Server thread/INFO]: Suushi left the game
+[23:21:46] [User Authenticator #111/INFO]: UUID of player Suushi is 33989304-e843-3900-980d-2803cf0259e7
+[23:21:46] [Server thread/INFO]: Suushi[/179.96.244.143:50386] logged in with entity id 393871 at ([world]-297.93784243034054, 63.0, -224.67857112302556)
+[23:22:24] [Server thread/INFO]: [@: Set the weather to clear]
+[23:22:25] [Server thread/INFO]: [@: Set the time to 1000]
+[23:25:56] [Server thread/WARN]: Suushi moved too quickly! 17.97008464336176,-3.8653953241694126,-19.883124329896702
+[23:26:08] [Server thread/WARN]: Suushi moved too quickly! 26.044608294394095,18.189395440207605,-26.340370648887898
+[23:27:25] [Server thread/INFO]: [@: Set the weather to clear]
+[23:31:37] [Server thread/INFO]: [@: Set the weather to clear]
+[23:32:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[23:33:29] [Server thread/WARN]: Suushi moved too quickly! -17.350473064081427,0.8458554899951096,24.532295006755362
+[23:33:31] [Server thread/WARN]: Suushi moved too quickly! -14.352183582736586,-3.042023563273709,29.417527263685713
+[23:33:35] [Server thread/WARN]: Suushi moved too quickly! -14.465125875695378,21.51825475488903,16.443491673604342
+[23:33:51] [Server thread/WARN]: Suushi moved too quickly! -4.118194207189873,19.488564916905432,-3.697684631834022
+[23:33:55] [Server thread/WARN]: Suushi moved too quickly! -13.53534494778512,-3.9015026208026597,12.90964392991458
+[23:33:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5137ms or 102 ticks behind
+[23:33:59] [Server thread/WARN]: Suushi moved too quickly! -14.534380801605863,-3.838878497026151,10.309417063496824
+[23:33:59] [Server thread/WARN]: Suushi moved too quickly! -14.148578348084214,-3.6762249984470117,9.66363148674418
+[23:34:03] [Server thread/WARN]: Suushi moved too quickly! 7.753028675516106,16.931378354794674,-10.002629224392876
+[23:34:10] [Server thread/INFO]: GOM issued server command: /teleport Suushi GOM
+[23:34:10] [Server thread/INFO]: [GOM: Teleported Suushi to GOM]
+[23:34:49] [User Authenticator #112/INFO]: UUID of player Slim is 3e6bd895-9b58-341e-9ad3-2ff57c59e281
+[23:34:49] [Server thread/INFO]: Slim[/170.247.55.131:18185] logged in with entity id 397122 at ([world]-241.24936343559827, 67.0, -223.7576921051806)
+[23:34:59] [Server thread/INFO]: [@: Set the time to 1000]
+[23:34:59] [Server thread/INFO]: [@: Set the weather to clear]
+[23:35:35] [User Authenticator #113/INFO]: UUID of player Dargaron is b72539c4-e3dd-30dd-bb44-becd8a45e4bd
+[23:35:35] [Server thread/INFO]: Dargaron[/170.247.53.72:48517] logged in with entity id 397366 at ([world]-245.61836572005996, 67.0, -234.19769419458834)
+[23:36:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5430ms or 108 ticks behind
+[23:36:18] [Server thread/INFO]: GOM issued server command: /gamemode survival
+[23:36:18] [Server thread/INFO]: [GOM: Set own game mode to Survival Mode]
+[23:36:20] [Server thread/WARN]: Dargaron moved too quickly! 19.924755768342493,1.256759288177264,-7.3253209071274625
+[23:36:20] [Server thread/INFO]: [@: Set the time to 1000]
+[23:36:20] [Server thread/INFO]: [@: Set the weather to clear]
+[23:36:28] [Server thread/WARN]: Dargaron moved too quickly! 8.556030107202503,26.550752607339007,-12.035494148462874
+[23:36:28] [Server thread/WARN]: Dargaron moved too quickly! 8.291778459181558,25.613819739824365,-11.693087964766562
+[23:36:31] [Server thread/WARN]: Dargaron moved too quickly! 20.596240968389623,25.42227226249493,-18.62107324231647
+[23:36:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20257ms or 405 ticks behind
+[23:37:16] [Server thread/WARN]: Dargaron moved too quickly! -10.912692362008585,-13.743164585000741,9.245652027766766
+[23:37:41] [Server thread/INFO]: GOM issued server command: /gamemode creative
+[23:37:41] [Server thread/INFO]: [GOM: Set own game mode to Creative Mode]
+[23:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5874ms or 117 ticks behind
+[23:37:56] [Server thread/INFO]: Suushi lost connection: Disconnected
+[23:37:56] [Server thread/INFO]: Suushi left the game
+[23:38:04] [User Authenticator #114/INFO]: UUID of player Suushi is 33989304-e843-3900-980d-2803cf0259e7
+[23:38:05] [Server thread/INFO]: Suushi[/179.96.244.143:50483] logged in with entity id 397933 at ([world_nether]600.2799915568638, 68.0, 286.67783207650075)
+[23:38:11] [Server thread/INFO]: GOM issued server command: /teleport Suushi Slim
+[23:38:12] [Server thread/INFO]: [GOM: Teleported Suushi to Slim]
+[23:38:15] [Server thread/WARN]: GOM moved too quickly! -7.7444299872457805,0.0,6.327877689200989
+[23:38:17] [Server thread/WARN]: GOM moved too quickly! -8.540318598983504,0.0,8.12748062996252
+[23:38:20] [Server thread/WARN]: GOM moved too quickly! -9.098956763125443,0.0,4.3490238241200245
+[23:38:23] [Server thread/WARN]: GOM moved too quickly! 3.8812337198453406,0.15000000596046448,10.793901697701415
+[23:38:23] [Server thread/WARN]: GOM moved too quickly! 3.82605284999147,0.0,10.275938876141993
+[23:38:25] [Server thread/WARN]: GOM moved too quickly! 1.361785768174741,0.0,11.949985820365896
+[23:38:25] [Server thread/WARN]: GOM moved too quickly! 1.3602314666496795,0.0,11.413835993697035
+[23:38:27] [Server thread/WARN]: GOM moved too quickly! 7.102187694983627,0.0,9.238285062960642
+[23:38:29] [Server thread/WARN]: GOM moved too quickly! 6.408247803224526,0.0,9.113576032076026
+[23:38:29] [Server thread/WARN]: GOM moved too quickly! 6.088608273951877,0.0,8.70160263628594
+[23:38:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12422ms or 248 ticks behind
+[23:38:50] [Server thread/INFO]: [@: Set the time to 1000]
+[23:38:50] [Server thread/INFO]: [@: Set the weather to clear]
+[23:39:08] [Server thread/WARN]: Suushi moved too quickly! 9.33731561885753,12.945935862591185,-8.04212621362251
+[23:39:13] [Server thread/WARN]: Suushi moved too quickly! 23.535587180067694,-5.429262257904469,3.63590731833267
+[23:39:16] [Server thread/WARN]: Suushi moved too quickly! -31.47445777516478,14.658147429861089,9.603023355674907
+[23:39:19] [Server thread/WARN]: Suushi moved too quickly! -42.60483024320891,-4.185016777896777,5.27975261904686
+[23:39:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5262ms or 105 ticks behind
+[23:40:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5824ms or 116 ticks behind
+[23:41:46] [Server thread/WARN]: GOM moved too quickly! -12.62083985279321,0.06413660514836295,-1.4252719649585401
+[23:41:46] [Server thread/WARN]: GOM moved too quickly! -12.097239991126457,0.06413660514836295,-1.4501059005723391
+[23:41:51] [Server thread/WARN]: GOM moved too quickly! -2.282564253017881,2.6640168633553003,9.622044556500214
+[23:41:53] [Server thread/WARN]: GOM moved too quickly! 2.202535319620324,0.0,9.884381583320192
+[23:42:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8013ms or 160 ticks behind
+[23:42:07] [Server thread/WARN]: GOM moved too quickly! 2.2585944586792266,4.268995641502222,8.82637912255177
+[23:42:11] [Server thread/INFO]: GOM issued server command: /teleport GOM Dargaron
+[23:42:11] [Server thread/INFO]: [GOM: Teleported GOM to Dargaron]
+[23:42:18] [Server thread/WARN]: GOM moved too quickly! 7.797198144342815,0.0,-6.498843310653712
+[23:44:10] [Server thread/INFO]: [@: Set the weather to clear]
+[23:44:14] [Server thread/INFO]: [@: Set the time to 1000]
+[23:44:14] [Server thread/INFO]: [@: Set the weather to clear]
+[23:44:38] [Server thread/INFO]: [@: Set the time to 1000]
+[23:44:38] [Server thread/INFO]: [@: Set the weather to clear]
+[23:44:42] [Server thread/INFO]: [@: Set the time to 1000]
+[23:44:42] [Server thread/INFO]: [@: Set the weather to clear]
+[23:45:05] [Server thread/WARN]: Dargaron moved too quickly! -17.144781016558568,-3.417929068909828,21.07244495399624
+[23:46:12] [Server thread/INFO]: Dargaron lost connection: Disconnected
+[23:46:12] [Server thread/INFO]: Dargaron left the game

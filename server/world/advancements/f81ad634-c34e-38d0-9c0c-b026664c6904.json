@@ -805,6 +805,7 @@
       "minecraft:cave_spider": "2020-03-24 03:22:03 +0000",
       "minecraft:enderman": "2020-03-24 03:02:55 +0000",
       "minecraft:silverfish": "2020-03-26 04:05:41 +0000",
+      "minecraft:endermite": "2020-06-27 02:42:09 +0000",
       "minecraft:zombie": "2020-03-24 01:30:41 +0000",
       "minecraft:drowned": "2020-05-31 06:24:46 +0000",
       "minecraft:zombie_villager": "2020-03-31 01:47:00 +0000"
@@ -916,6 +917,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2020-03-24 01:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-06-27 02:14:08 +0000"
     },
     "done": true
   },
@@ -1267,6 +1274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2020-06-27 01:50:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2020-03-24 04:38:58 +0000"
@@ -1507,6 +1520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-06-27 02:14:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-24 02:02:28 +0000"
@@ -1612,6 +1631,7 @@
       "minecraft:birch_forest": "2020-06-11 18:56:44 +0000",
       "minecraft:jungle_hills": "2020-03-24 00:59:56 +0000",
       "minecraft:bamboo_jungle": "2020-03-24 01:02:24 +0000",
+      "minecraft:warm_ocean": "2020-06-27 01:48:42 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-06-11 19:00:54 +0000",
       "minecraft:badlands": "2020-06-11 19:19:23 +0000",
       "minecraft:savanna_plateau": "2020-06-11 19:18:26 +0000",
@@ -3202,6 +3222,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2020-06-16 04:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-06-27 02:14:08 +0000"
     },
     "done": true
   },
