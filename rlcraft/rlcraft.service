@@ -1,0 +1,9 @@
+[Unit]
+Description=RLCraft Server
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/mine/rlcraft/startRlcraft.sh
+
+[Install]
+WantedBy=multi-user.target
