@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2020-07-01 00:41:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2020-03-28 22:14:03 +0000"
@@ -842,6 +848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2020-07-01 00:41:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-03-24 01:14:33 +0000"
@@ -930,6 +942,7 @@
       "minecraft:cave_spider": "2020-03-27 03:28:05 +0000",
       "minecraft:piglin": "2020-06-26 01:53:05 +0000",
       "minecraft:enderman": "2020-03-27 03:22:07 +0000",
+      "minecraft:endermite": "2020-07-01 21:58:27 +0000",
       "minecraft:zombie": "2020-03-24 01:14:33 +0000",
       "minecraft:drowned": "2020-03-27 03:23:21 +0000",
       "minecraft:zombie_villager": "2020-03-24 05:54:13 +0000"
@@ -4067,6 +4080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2020-07-01 00:41:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-03-24 04:24:45 +0000"
@@ -4214,6 +4233,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2020-03-24 01:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2020-07-01 00:41:54 +0000"
     },
     "done": true
   },
