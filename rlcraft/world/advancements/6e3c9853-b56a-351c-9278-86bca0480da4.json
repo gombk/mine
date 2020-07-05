@@ -1,0 +1,20 @@
+{
+  "defiledlands:main/root": {
+    "criteria": {
+      "plains_defiled": "2020-07-05 17:33:06 -0300"
+    },
+    "done": true
+  },
+  "defiledlands:main/discover_all_biomes": {
+    "criteria": {
+      "plains_defiled": "2020-07-05 17:33:06 -0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "extreme_hills": "2020-07-05 17:31:25 -0300"
+    },
+    "done": false
+  }
+}
