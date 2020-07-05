@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "6e3c9853-b56a-351c-9278-86bca0480da4",
+    "name": "GOM",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b3f658f3-321f-445f-91b0-d7b4ffd4b4ed",
+    "name": "Gom",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
