@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2020-07-07 18:08:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2020-06-29 12:22:36 +0000"
@@ -1510,7 +1516,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2020-06-29 12:33:25 +0000",
-      "minecraft:nether_wastes": "2020-06-30 16:13:54 +0000"
+      "minecraft:nether_wastes": "2020-06-30 16:13:54 +0000",
+      "minecraft:basalt_deltas": "2020-07-07 18:12:29 +0000"
     },
     "done": false
   },
